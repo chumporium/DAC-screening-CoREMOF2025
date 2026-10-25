@@ -1,0 +1,9 @@
+run,label
+B/NAJSUP_ASR__rh100,terpotong walltime 36 jam - tidak diulang karena RH 25 % sudah runtuh
+B/APAYIB_ASR__rh050,terpotong walltime 36 jam - tidak diulang karena RH 25 % sudah runtuh
+B/APAYIB_ASR__rh100,terpotong walltime 36 jam - tidak diulang karena RH 25 % sudah runtuh
+B/AFUDUD_ASR__rh050,terpotong walltime 36 jam - tidak diulang karena RH 25 % sudah runtuh
+B/AFUDUD_ASR__rh100,terpotong walltime 36 jam - tidak diulang karena RH 25 % sudah runtuh
+B/GUDJOG_ASR__rh025,terpotong walltime 36 jam - log parsial (5k produksi): CO2 0,045 vs 5,97 molekul/sel kering (<1 %), air 249 molekul/sel
+B/GUDJOG_ASR__rh050,terpotong walltime 36 jam (ekuilibrasi) - CO2 0 di cuplikan terakhir, air 525 molekul/sel
+B/GUDJOG_ASR__rh100,terpotong walltime 36 jam (ekuilibrasi) - CO2 0 di cuplikan terakhir, air 560 molekul/sel

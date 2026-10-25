@@ -1,0 +1,2 @@
+run,komp,q_50k,q_150k_equil,q_600k,label,catatan
+CAZFOA_FSR__rh050,H2O,52.15,59.32,53.00,TAK_KONVERGEN,produksi 600k masih naik (95->102->104 %); dua lari panjang tidak cocok (z=-6.0)

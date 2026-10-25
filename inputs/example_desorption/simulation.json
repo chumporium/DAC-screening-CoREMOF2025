@@ -1,0 +1,94 @@
+{
+ "SimulationType": "MonteCarlo",
+ "NumberOfCycles": 50000,
+ "NumberOfInitializationCycles": 50000,
+ "NumberOfEquilibrationCycles": 50000,
+ "PrintEvery": 2500,
+ "ForceField": ".",
+ "Systems": [
+  {
+   "Type": "Framework",
+   "Name": "KENVOR_ion",
+   "NumberOfUnitCells": [
+    2,
+    2,
+    2
+   ],
+   "ExternalTemperature": 373.0,
+   "ExternalPressure": 1000.0,
+   "ChargeMethod": "Ewald",
+   "CutOffVDW": 9.0,
+   "CutOffCoulomb": 9.0,
+   "ComputeDensityGrid": false,
+   "DensityGridSize": [
+    50,
+    50,
+    50
+   ],
+   "SampleDensityGridEvery": 100,
+   "WriteDensityGridEvery": 10000,
+   "ComputeConventionalRDF": false,
+   "NumberOfBinsConventionalRDF": 250,
+   "RangeConventionalRDF": 12.0,
+   "SampleConventionalRDFEvery": 100,
+   "WriteConventionalRDFEvery": 10000
+  }
+ ],
+ "Components": [
+  {
+   "Name": "N2",
+   "MolFraction": 0.18512260288614069,
+   "FugacityCoefficient": 1.0,
+   "TranslationProbability": 0.5,
+   "ReinsertionProbability": 0.5,
+   "WidomProbability": 0.2,
+   "CreateNumberOfMolecules": 0,
+   "RotationProbability": 0.5,
+   "SwapProbability": 1.0
+  },
+  {
+   "Name": "O2",
+   "MolFraction": 0.07684158373757786,
+   "FugacityCoefficient": 1.0,
+   "TranslationProbability": 0.5,
+   "ReinsertionProbability": 0.5,
+   "WidomProbability": 0.2,
+   "CreateNumberOfMolecules": 0,
+   "RotationProbability": 0.5,
+   "SwapProbability": 1.0
+  },
+  {
+   "Name": "H2O",
+   "MolFraction": 0.3969029381364466,
+   "FugacityCoefficient": 1.0,
+   "TranslationProbability": 0.5,
+   "ReinsertionProbability": 0.5,
+   "WidomProbability": 0.2,
+   "CreateNumberOfMolecules": 0,
+   "RotationProbability": 0.5,
+   "SwapProbability": 1.0
+  },
+  {
+   "Name": "AR",
+   "MolFraction": 0.0038227495753984262,
+   "FugacityCoefficient": 1.0,
+   "TranslationProbability": 0.5,
+   "ReinsertionProbability": 0.5,
+   "WidomProbability": 0.2,
+   "CreateNumberOfMolecules": 0,
+   "SwapProbability": 1.0
+  },
+  {
+   "Name": "CO2",
+   "MolFraction": 0.3373101256644363,
+   "FugacityCoefficient": 1.0,
+   "TranslationProbability": 0.5,
+   "ReinsertionProbability": 0.5,
+   "WidomProbability": 0.2,
+   "CreateNumberOfMolecules": 0,
+   "RotationProbability": 0.5,
+   "CFCMC_CBMC_SwapProbability": 1.0,
+   "ThermodynamicIntegration": true
+  }
+ ]
+}

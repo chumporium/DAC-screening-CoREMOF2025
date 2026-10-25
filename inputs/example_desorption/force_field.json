@@ -1,0 +1,693 @@
+{
+ "MixingRule": "Lorentz-Berthelot",
+ "TruncationMethod": "shifted",
+ "TailCorrections": false,
+ "PseudoAtoms": [
+  {
+   "name": "T0",
+   "framework": true,
+   "print_to_output": false,
+   "element": "Ag",
+   "print_as": "Ag",
+   "mass": 107.868,
+   "charge": 0.34,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T1",
+   "framework": true,
+   "print_to_output": false,
+   "element": "H",
+   "print_as": "H",
+   "mass": 1.008,
+   "charge": 0.13,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T2",
+   "framework": true,
+   "print_to_output": false,
+   "element": "H",
+   "print_as": "H",
+   "mass": 1.008,
+   "charge": 0.113,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T3",
+   "framework": true,
+   "print_to_output": false,
+   "element": "H",
+   "print_as": "H",
+   "mass": 1.008,
+   "charge": 0.161,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T4",
+   "framework": true,
+   "print_to_output": false,
+   "element": "H",
+   "print_as": "H",
+   "mass": 1.008,
+   "charge": 0.121,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T5",
+   "framework": true,
+   "print_to_output": false,
+   "element": "H",
+   "print_as": "H",
+   "mass": 1.008,
+   "charge": 0.136,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T6",
+   "framework": true,
+   "print_to_output": false,
+   "element": "H",
+   "print_as": "H",
+   "mass": 1.008,
+   "charge": 0.288,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T7",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": 0.175,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T8",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": -0.196,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T9",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": -0.143,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T10",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": 0.049,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T11",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": -0.115,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T12",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": -0.187,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T13",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": -0.005,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T14",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": 0.348,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T15",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": -0.241,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T16",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": -0.024,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T17",
+   "framework": true,
+   "print_to_output": false,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.011,
+   "charge": 0.23,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T18",
+   "framework": true,
+   "print_to_output": false,
+   "element": "Br",
+   "print_as": "Br",
+   "mass": 79.904,
+   "charge": -0.086,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T19",
+   "framework": true,
+   "print_to_output": false,
+   "element": "N",
+   "print_as": "N",
+   "mass": 14.007,
+   "charge": -0.101,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T20",
+   "framework": true,
+   "print_to_output": false,
+   "element": "N",
+   "print_as": "N",
+   "mass": 14.007,
+   "charge": -0.178,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T21",
+   "framework": true,
+   "print_to_output": false,
+   "element": "N",
+   "print_as": "N",
+   "mass": 14.007,
+   "charge": -0.382,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T22",
+   "framework": true,
+   "print_to_output": false,
+   "element": "N",
+   "print_as": "N",
+   "mass": 14.007,
+   "charge": -0.169,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T23",
+   "framework": true,
+   "print_to_output": false,
+   "element": "Cl",
+   "print_as": "Cl",
+   "mass": 35.45,
+   "charge": 1.284,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T24",
+   "framework": true,
+   "print_to_output": false,
+   "element": "O",
+   "print_as": "O",
+   "mass": 15.999,
+   "charge": -0.528,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "T25",
+   "framework": true,
+   "print_to_output": false,
+   "element": "O",
+   "print_as": "O",
+   "mass": 15.999,
+   "charge": -0.506,
+   "source": "PACMAN-DDEC6"
+  },
+  {
+   "name": "N_n2",
+   "framework": false,
+   "print_to_output": true,
+   "element": "N",
+   "print_as": "N",
+   "mass": 14.00674,
+   "charge": -0.482,
+   "source": "TraPPE"
+  },
+  {
+   "name": "N_com",
+   "framework": false,
+   "print_to_output": false,
+   "element": "N",
+   "print_as": "-",
+   "mass": 0.0,
+   "charge": 0.964,
+   "source": "TraPPE"
+  },
+  {
+   "name": "O_o2",
+   "framework": false,
+   "print_to_output": true,
+   "element": "O",
+   "print_as": "O",
+   "mass": 15.9994,
+   "charge": -0.123,
+   "source": "TraPPE"
+  },
+  {
+   "name": "O_com",
+   "framework": false,
+   "print_to_output": false,
+   "element": "O",
+   "print_as": "-",
+   "mass": 0.0,
+   "charge": 0.246,
+   "source": "TraPPE"
+  },
+  {
+   "name": "Ar",
+   "framework": false,
+   "print_to_output": true,
+   "element": "A",
+   "print_as": "A",
+   "mass": 39.948,
+   "charge": 0.0,
+   "source": "LJ Ar"
+  },
+  {
+   "name": "O_co2",
+   "framework": false,
+   "print_to_output": true,
+   "element": "O",
+   "print_as": "O",
+   "mass": 15.9994,
+   "charge": -0.35,
+   "source": "TraPPE"
+  },
+  {
+   "name": "C_co2",
+   "framework": false,
+   "print_to_output": true,
+   "element": "C",
+   "print_as": "C",
+   "mass": 12.0,
+   "charge": 0.7,
+   "source": "TraPPE"
+  },
+  {
+   "name": "Ow",
+   "framework": false,
+   "print_to_output": true,
+   "element": "O",
+   "print_as": "O",
+   "mass": 15.9994,
+   "charge": 0.0,
+   "source": "TIP4P"
+  },
+  {
+   "name": "Hw",
+   "framework": false,
+   "print_to_output": false,
+   "element": "H",
+   "print_as": "-",
+   "mass": 1.00794,
+   "charge": 0.52,
+   "source": "TIP4P"
+  },
+  {
+   "name": "Mw",
+   "framework": false,
+   "print_to_output": false,
+   "element": "M",
+   "print_as": "-",
+   "mass": 0.0,
+   "charge": -1.04,
+   "source": "TIP4P"
+  }
+ ],
+ "SelfInteractions": [
+  {
+   "name": "T0",
+   "type": "lennard-jones",
+   "parameters": [
+    18.116,
+    2.805
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T1",
+   "type": "lennard-jones",
+   "parameters": [
+    22.142,
+    2.571
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T2",
+   "type": "lennard-jones",
+   "parameters": [
+    22.142,
+    2.571
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T3",
+   "type": "lennard-jones",
+   "parameters": [
+    22.142,
+    2.571
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T4",
+   "type": "lennard-jones",
+   "parameters": [
+    22.142,
+    2.571
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T5",
+   "type": "lennard-jones",
+   "parameters": [
+    22.142,
+    2.571
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T6",
+   "type": "lennard-jones",
+   "parameters": [
+    22.142,
+    2.571
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T7",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T8",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T9",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T10",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T11",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T12",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T13",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T14",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T15",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T16",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T17",
+   "type": "lennard-jones",
+   "parameters": [
+    52.838,
+    3.431
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T18",
+   "type": "lennard-jones",
+   "parameters": [
+    126.3,
+    3.732
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T19",
+   "type": "lennard-jones",
+   "parameters": [
+    34.722,
+    3.261
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T20",
+   "type": "lennard-jones",
+   "parameters": [
+    34.722,
+    3.261
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T21",
+   "type": "lennard-jones",
+   "parameters": [
+    34.722,
+    3.261
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T22",
+   "type": "lennard-jones",
+   "parameters": [
+    34.722,
+    3.261
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T23",
+   "type": "lennard-jones",
+   "parameters": [
+    114.231,
+    3.516
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T24",
+   "type": "lennard-jones",
+   "parameters": [
+    30.193,
+    3.118
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "T25",
+   "type": "lennard-jones",
+   "parameters": [
+    30.193,
+    3.118
+   ],
+   "source": "UFF"
+  },
+  {
+   "name": "N_n2",
+   "type": "lennard-jones",
+   "parameters": [
+    36.0,
+    3.31
+   ],
+   "source": "TraPPE"
+  },
+  {
+   "name": "N_com",
+   "type": "none",
+   "parameters": [
+    0.0,
+    1.0
+   ],
+   "source": "TraPPE"
+  },
+  {
+   "name": "O_o2",
+   "type": "lennard-jones",
+   "parameters": [
+    49.1,
+    3.013
+   ],
+   "source": "TraPPE"
+  },
+  {
+   "name": "O_com",
+   "type": "none",
+   "parameters": [
+    0.0,
+    1.0
+   ],
+   "source": "TraPPE"
+  },
+  {
+   "name": "Ar",
+   "type": "lennard-jones",
+   "parameters": [
+    119.8,
+    3.405
+   ],
+   "source": "LJ Ar"
+  },
+  {
+   "name": "O_co2",
+   "type": "lennard-jones",
+   "parameters": [
+    79.0,
+    3.05
+   ],
+   "source": "TraPPE"
+  },
+  {
+   "name": "C_co2",
+   "type": "lennard-jones",
+   "parameters": [
+    27.0,
+    2.8
+   ],
+   "source": "TraPPE"
+  },
+  {
+   "name": "Ow",
+   "type": "lennard-jones",
+   "parameters": [
+    78.0,
+    3.15365
+   ],
+   "source": "TIP4P"
+  },
+  {
+   "name": "Hw",
+   "type": "none",
+   "parameters": [
+    0.0,
+    1.0
+   ],
+   "source": "TIP4P"
+  },
+  {
+   "name": "Mw",
+   "type": "none",
+   "parameters": [
+    0.0,
+    1.0
+   ],
+   "source": "TIP4P"
+  }
+ ]
+}

@@ -1,0 +1,761 @@
+run,gas,sumber,prod,q_akhir,sigma_pct,perubahan_paruh_akhir_pct,rentang_paruh_akhir_pct,frac_naik,kelas
+ARAHIM01_ASR__rh000,N2,gas,647500,0.1205,1.81,-2.00,2.89,0.42,fluktuatif
+ARAHIM01_ASR__rh000,O2,gas,647500,0.01157,2.60,-2.53,4.76,0.42,fluktuatif
+ARAHIM01_ASR__rh000,AR,gas,647500,0.0002615,7.38,-4.71,14.50,0.44,fluktuatif besar
+ARAHIM01_ASR__rh000,CO2,gas,647500,40.92,0.53,0.36,0.75,0.52,stagnan
+ARAHIM01_ASR__rh025,N2,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh025,O2,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh025,AR,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh025,H2O,50k,47500,106.5,0.27,-0.04,0.26,0.33,stagnan
+ARAHIM01_ASR__rh025,CO2,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh050,N2,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh050,O2,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh050,H2O,50k,47500,106.9,0.35,0.29,0.37,0.56,stagnan
+ARAHIM01_ASR__rh050,AR,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh050,CO2,50k,47500,0.00014,36.42,-42.85,42.85,0.22,"renik (sigma>10, tidak dinilai)"
+ARAHIM01_ASR__rh100,N2,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh100,O2,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh100,H2O,50k,47500,108.3,0.38,-0.48,0.55,0.22,stagnan
+ARAHIM01_ASR__rh100,AR,50k,47500,0,,,,,nol
+ARAHIM01_ASR__rh100,CO2,50k,47500,0,,,,,nol
+ARAHIM02_ASR__rh000,N2,gas,297500,0.1867,2.49,-0.71,1.70,0.42,stagnan
+ARAHIM02_ASR__rh000,O2,gas,297500,0.02138,1.92,1.84,2.45,0.58,fluktuatif
+ARAHIM02_ASR__rh000,AR,gas,297500,0.0005333,7.46,11.25,12.79,0.41,fluktuatif besar
+ARAHIM02_ASR__rh000,CO2,gas,297500,35.53,0.88,-0.56,0.89,0.47,stagnan
+ARAHIM02_ASR__rh025,N2,50k,47500,0.00012,99.99,100.00,133.33,0.11,"renik (sigma>10, tidak dinilai)"
+ARAHIM02_ASR__rh025,O2,50k,47500,0,,,,,nol
+ARAHIM02_ASR__rh025,AR,50k,47500,0,,,,,nol
+ARAHIM02_ASR__rh025,H2O,50k,47500,107.1,0.20,0.25,0.35,0.44,stagnan
+ARAHIM02_ASR__rh025,CO2,50k,47500,0.00046,42.15,-73.91,73.91,0.00,"renik (sigma>10, tidak dinilai)"
+ARAHIM02_ASR__rh050,N2,50k,47500,0,,,,,nol
+ARAHIM02_ASR__rh050,O2,50k,47500,0,,,,,nol
+ARAHIM02_ASR__rh050,H2O,50k,47500,108.6,0.40,-0.73,0.73,0.00,stagnan
+ARAHIM02_ASR__rh050,AR,50k,47500,0,,,,,nol
+ARAHIM02_ASR__rh050,CO2,50k,47500,0.00026,46.47,53.85,58.04,0.56,"renik (sigma>10, tidak dinilai)"
+ARAHIM02_ASR__rh100,N2,50k,47500,2e-05,99.99,100.00,100.00,0.11,"renik (sigma>10, tidak dinilai)"
+ARAHIM02_ASR__rh100,O2,50k,47500,2e-05,99.99,100.00,117.64,0.11,"renik (sigma>10, tidak dinilai)"
+ARAHIM02_ASR__rh100,H2O,50k,47500,111.4,0.43,0.65,0.74,0.78,stagnan
+ARAHIM02_ASR__rh100,AR,50k,47500,0,,,,,nol
+ARAHIM02_ASR__rh100,CO2,50k,47500,0.00016,99.99,100.00,100.00,0.11,"renik (sigma>10, tidak dinilai)"
+ARAHIM_ASR__rh000,N2,gas,247500,0.1998,1.13,0.91,1.91,0.49,stagnan
+ARAHIM_ASR__rh000,O2,gas,247500,0.02325,0.75,1.00,1.53,0.55,stagnan
+ARAHIM_ASR__rh000,AR,gas,247500,0.000584,4.77,-1.37,11.70,0.49,fluktuatif besar
+ARAHIM_ASR__rh000,CO2,gas,247500,32.45,0.63,-0.88,1.10,0.43,stagnan
+ARAHIM_ASR__rh025,N2,50k,47500,0,,,,,nol
+ARAHIM_ASR__rh025,O2,50k,47500,2e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+ARAHIM_ASR__rh025,AR,50k,47500,0,,,,,nol
+ARAHIM_ASR__rh025,H2O,50k,47500,107.9,0.33,0.49,0.49,1.00,stagnan
+ARAHIM_ASR__rh025,CO2,50k,47500,0.01892,73.11,-99.57,99.57,0.00,"renik (sigma>10, tidak dinilai)"
+ARAHIM_ASR__rh050,N2,50k,47500,0,,,,,nol
+ARAHIM_ASR__rh050,O2,50k,47500,2e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+ARAHIM_ASR__rh050,H2O,50k,47500,108.8,0.16,0.23,0.23,1.00,stagnan
+ARAHIM_ASR__rh050,AR,50k,47500,0,,,,,nol
+ARAHIM_ASR__rh050,CO2,50k,47500,0.00054,61.86,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+ARAHIM_ASR__rh100,N2,50k,47500,0,,,,,nol
+ARAHIM_ASR__rh100,O2,50k,47500,2e-05,99.99,100.00,125.00,0.11,"renik (sigma>10, tidak dinilai)"
+ARAHIM_ASR__rh100,H2O,50k,47500,110.3,0.09,-0.19,0.29,0.44,stagnan
+ARAHIM_ASR__rh100,AR,50k,47500,0,,,,,nol
+ARAHIM_ASR__rh100,CO2,50k,47500,0.00016,64.34,100.00,142.85,0.44,"renik (sigma>10, tidak dinilai)"
+BOMCUB_ion__rh000,N2,50k,47500,0,,,,,nol
+BOMCUB_ion__rh000,O2,50k,47500,0.00198,9.63,-13.13,13.13,0.33,fluktuatif besar
+BOMCUB_ion__rh000,AR,50k,47500,0,,,,,nol
+BOMCUB_ion__rh000,CO2,50k,47500,0.00304,22.61,-26.31,26.31,0.22,"renik (sigma>10, tidak dinilai)"
+BOMCUB_ion__rh025,N2,50k,47500,2e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+BOMCUB_ion__rh025,O2,50k,47500,0.0009,9.94,24.45,24.45,0.67,fluktuatif besar
+BOMCUB_ion__rh025,AR,50k,47500,0,,,,,nol
+BOMCUB_ion__rh025,H2O,50k,47500,42.18,0.81,0.20,0.82,0.44,stagnan
+BOMCUB_ion__rh025,CO2,50k,47500,0.00044,41.03,45.46,60.61,0.33,"renik (sigma>10, tidak dinilai)"
+BOMCUB_ion__rh050,N2,50k,47500,4e-05,61.23,0.00,44.45,0.11,"renik (sigma>10, tidak dinilai)"
+BOMCUB_ion__rh050,O2,50k,47500,0.00076,22.25,26.32,34.68,0.78,"renik (sigma>10, tidak dinilai)"
+BOMCUB_ion__rh050,H2O,50k,47500,49.35,0.41,-0.57,0.58,0.22,stagnan
+BOMCUB_ion__rh050,AR,50k,47500,0,,,,,nol
+BOMCUB_ion__rh050,CO2,50k,47500,0.00022,46.35,27.28,55.07,0.44,"renik (sigma>10, tidak dinilai)"
+BOMCUB_ion__rh100,N2,gas,147500,6.667e-06,99.99,100.00,139.53,0.03,"renik (sigma>10, tidak dinilai)"
+BOMCUB_ion__rh100,O2,gas,147500,0.0005933,8.95,3.37,7.61,0.48,fluktuatif besar
+BOMCUB_ion__rh100,H2O,gas,147500,54.84,0.49,-0.77,0.92,0.31,stagnan
+BOMCUB_ion__rh100,AR,gas,147500,0,,,,,nol
+BOMCUB_ion__rh100,CO2,gas,147500,6.667e-05,22.36,-20.00,36.28,0.14,"renik (sigma>10, tidak dinilai)"
+BOTLED_ASR__rh000,N2,gas,1897500,0.005023,1.30,0.49,1.79,0.46,stagnan
+BOTLED_ASR__rh000,O2,gas,1897500,0.005058,0.85,0.04,1.25,0.48,stagnan
+BOTLED_ASR__rh000,AR,gas,1897500,3.632e-05,21.54,-27.54,27.54,0.07,"renik (sigma>10, tidak dinilai)"
+BOTLED_ASR__rh000,CO2,gas,1897500,0.04484,2.43,0.87,1.83,0.40,"renik (sigma>10, tidak dinilai)"
+BOTLED_ASR__rh025,N2,pjg4,597500,0.002042,2.73,-5.63,7.01,0.32,fluktuatif besar
+BOTLED_ASR__rh025,O2,pjg4,597500,0.002433,1.85,-1.64,4.96,0.42,fluktuatif
+BOTLED_ASR__rh025,AR,pjg4,597500,1.833e-05,30.15,27.27,43.94,0.06,"renik (sigma>10, tidak dinilai)"
+BOTLED_ASR__rh025,H2O,pjg4,597500,18.93,0.85,1.80,4.08,0.50,fluktuatif
+BOTLED_ASR__rh025,CO2,pjg4,597500,0.01828,4.80,-0.85,7.12,0.30,"renik (sigma>10, tidak dinilai)"
+BOTLED_ASR__rh050,N2,pjg4,597500,0.0003417,14.11,9.27,19.61,0.53,"renik (sigma>10, tidak dinilai)"
+BOTLED_ASR__rh050,O2,pjg4,597500,0.0005717,9.81,3.79,14.53,0.43,fluktuatif besar
+BOTLED_ASR__rh050,H2O,pjg4,597500,39.62,2.35,0.03,3.30,0.48,fluktuatif
+BOTLED_ASR__rh050,AR,pjg4,597500,5e-06,66.66,100.00,103.45,0.03,"renik (sigma>10, tidak dinilai)"
+BOTLED_ASR__rh050,CO2,pjg4,597500,0.002583,13.56,10.19,18.78,0.32,"renik (sigma>10, tidak dinilai)"
+BOTLED_ASR__rh100,N2,gas,1897500,4.474e-05,9.66,12.94,16.87,0.12,masih bergerak
+BOTLED_ASR__rh100,O2,gas,1897500,0.0001105,8.42,12.38,14.88,0.25,fluktuatif besar
+BOTLED_ASR__rh100,H2O,gas,1897500,48.44,0.34,-0.28,0.61,0.49,stagnan
+BOTLED_ASR__rh100,AR,gas,1897500,1.053e-06,61.23,100.00,106.29,0.01,"renik (sigma>10, tidak dinilai)"
+BOTLED_ASR__rh100,CO2,gas,1897500,0.0003479,27.86,-43.42,45.52,0.11,"renik (sigma>10, tidak dinilai)"
+CAZFOA_FSR__rh000,N2,pjg,147500,0.1116,1.22,-0.16,1.39,0.45,stagnan
+CAZFOA_FSR__rh000,O2,pjg,147500,0.06562,1.28,-0.37,1.25,0.48,stagnan
+CAZFOA_FSR__rh000,AR,pjg,147500,0.001447,3.06,-3.22,6.31,0.38,fluktuatif besar
+CAZFOA_FSR__rh000,CO2,pjg,147500,0.6189,3.55,-0.86,7.13,0.31,fluktuatif besar
+CAZFOA_FSR__rh025,N2,gas,97500,0.01486,2.48,-1.21,3.33,0.42,fluktuatif
+CAZFOA_FSR__rh025,O2,gas,97500,0.03805,2.54,-4.70,4.94,0.21,fluktuatif
+CAZFOA_FSR__rh025,AR,gas,97500,0.00104,7.96,-7.69,9.99,0.47,fluktuatif besar
+CAZFOA_FSR__rh025,H2O,gas,97500,27.97,2.82,3.29,4.93,0.53,fluktuatif
+CAZFOA_FSR__rh025,CO2,gas,97500,0.00502,15.14,24.30,35.73,0.53,"renik (sigma>10, tidak dinilai)"
+CAZFOA_FSR__rh050,N2,pjg4,597500,0.009005,1.30,-0.46,2.00,0.48,stagnan
+CAZFOA_FSR__rh050,O2,pjg4,597500,0.02253,2.00,-3.31,3.85,0.39,fluktuatif
+CAZFOA_FSR__rh050,H2O,pjg4,597500,53,1.47,2.56,2.57,0.75,fluktuatif
+CAZFOA_FSR__rh050,AR,pjg4,597500,0.00063,2.50,-0.53,4.06,0.45,fluktuatif
+CAZFOA_FSR__rh050,CO2,pjg4,597500,0.0003417,21.88,-29.76,32.24,0.34,"renik (sigma>10, tidak dinilai)"
+CAZFOA_FSR__rh100,N2,gas,547500,0.006302,2.16,2.25,3.39,0.52,fluktuatif
+CAZFOA_FSR__rh100,O2,gas,547500,0.01656,1.64,1.35,2.41,0.54,fluktuatif
+CAZFOA_FSR__rh100,H2O,gas,547500,65.74,0.84,-1.33,1.42,0.41,stagnan
+CAZFOA_FSR__rh100,AR,gas,547500,0.0004273,5.51,-9.79,10.14,0.28,fluktuatif besar
+CAZFOA_FSR__rh100,CO2,gas,547500,0.0001055,17.15,-31.03,33.33,0.18,"renik (sigma>10, tidak dinilai)"
+ESUMOU01_ASR__rh000,N2,pjg3,147500,0.0273,1.76,-0.71,2.73,0.34,fluktuatif
+ESUMOU01_ASR__rh000,O2,pjg3,147500,0.02755,1.06,-1.16,1.42,0.45,stagnan
+ESUMOU01_ASR__rh000,AR,pjg3,147500,0.0004467,8.38,13.43,16.26,0.48,fluktuatif besar
+ESUMOU01_ASR__rh000,CO2,pjg3,147500,0.1046,3.79,2.48,5.63,0.48,fluktuatif besar
+ESUMOU01_ASR__rh025,N2,pjg3,47500,0,,,,,nol
+ESUMOU01_ASR__rh025,O2,pjg3,47500,0,,,,,nol
+ESUMOU01_ASR__rh025,AR,pjg3,47500,0,,,,,nol
+ESUMOU01_ASR__rh025,H2O,pjg3,47500,93.16,0.21,-0.23,0.23,0.00,stagnan
+ESUMOU01_ASR__rh025,CO2,pjg3,47500,0,,,,,nol
+ESUMOU01_ASR__rh050,N2,pjg3,47500,0,,,,,nol
+ESUMOU01_ASR__rh050,O2,pjg3,47500,0,,,,,nol
+ESUMOU01_ASR__rh050,H2O,pjg3,47500,93,0.00,0.00,0.00,0.00,stagnan
+ESUMOU01_ASR__rh050,AR,pjg3,47500,0,,,,,nol
+ESUMOU01_ASR__rh050,CO2,pjg3,47500,0,,,,,nol
+ESUMOU01_ASR__rh100,N2,50k,47500,0,,,,,nol
+ESUMOU01_ASR__rh100,O2,50k,47500,0,,,,,nol
+ESUMOU01_ASR__rh100,H2O,50k,47500,93.73,0.20,-0.29,0.29,0.00,stagnan
+ESUMOU01_ASR__rh100,AR,50k,47500,0,,,,,nol
+ESUMOU01_ASR__rh100,CO2,50k,47500,0,,,,,nol
+FUDTOQ_ASR__rh000,N2,50k,47500,0.5064,1.51,-2.35,2.35,0.22,fluktuatif
+FUDTOQ_ASR__rh000,O2,50k,47500,0.3064,1.60,-1.43,1.77,0.22,stagnan
+FUDTOQ_ASR__rh000,AR,50k,47500,0.01594,1.37,-1.88,1.91,0.44,stagnan
+FUDTOQ_ASR__rh000,CO2,50k,47500,12.61,4.95,3.78,5.84,0.67,fluktuatif besar
+FUDTOQ_ASR__rh025,N2,gas,247500,0.007032,13.88,9.10,19.65,0.47,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh025,O2,gas,247500,0.005456,9.57,3.08,12.43,0.35,fluktuatif besar
+FUDTOQ_ASR__rh025,AR,gas,247500,0.000196,16.58,26.53,28.94,0.41,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh025,H2O,gas,247500,85.5,0.98,0.54,1.11,0.57,stagnan
+FUDTOQ_ASR__rh025,CO2,gas,247500,0.03967,14.15,-24.84,24.84,0.20,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh050,N2,50k,47500,0.00222,18.81,15.32,30.35,0.44,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh050,O2,50k,47500,0.0018,12.30,15.56,21.45,0.44,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh050,H2O,50k,47500,90.54,0.38,-0.48,0.73,0.44,stagnan
+FUDTOQ_ASR__rh050,AR,50k,47500,4e-05,61.23,100.00,142.85,0.22,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh050,CO2,50k,47500,0.01466,31.55,-29.33,29.33,0.11,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh100,N2,50k,47500,0.00034,25.64,-64.70,64.70,0.00,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh100,O2,50k,47500,0.00036,11.11,0.00,17.09,0.67,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh100,H2O,50k,47500,104,0.60,1.09,1.21,0.78,stagnan
+FUDTOQ_ASR__rh100,AR,50k,47500,4e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+FUDTOQ_ASR__rh100,CO2,50k,47500,0.00076,40.46,-31.57,43.86,0.22,"renik (sigma>10, tidak dinilai)"
+FULWAN_ASR__rh000,N2,pjg3,147500,1.351,0.22,-0.23,0.61,0.38,stagnan
+FULWAN_ASR__rh000,O2,pjg3,147500,0.3037,0.53,0.48,1.06,0.55,stagnan
+FULWAN_ASR__rh000,AR,pjg3,147500,0.01431,2.40,2.00,2.76,0.66,fluktuatif
+FULWAN_ASR__rh000,CO2,pjg3,147500,1.903,2.27,2.85,2.98,0.55,fluktuatif
+FULWAN_ASR__rh025,N2,gas,147500,0.004387,11.00,-4.56,24.34,0.31,"renik (sigma>10, tidak dinilai)"
+FULWAN_ASR__rh025,O2,gas,147500,0.002387,11.15,-8.38,19.84,0.31,"renik (sigma>10, tidak dinilai)"
+FULWAN_ASR__rh025,AR,gas,147500,0.0001,14.90,-6.67,26.84,0.24,"renik (sigma>10, tidak dinilai)"
+FULWAN_ASR__rh025,H2O,gas,147500,65.08,0.96,0.17,1.03,0.59,stagnan
+FULWAN_ASR__rh025,CO2,gas,147500,0.003673,18.00,12.89,19.38,0.31,"renik (sigma>10, tidak dinilai)"
+FULWAN_ASR__rh050,N2,gas,1897500,0.001429,10.36,0.33,10.08,0.41,"renik (sigma>10, tidak dinilai)"
+FULWAN_ASR__rh050,O2,gas,1897500,0.001087,7.86,2.76,8.74,0.47,fluktuatif besar
+FULWAN_ASR__rh050,H2O,gas,1897500,68.58,0.27,-0.19,0.37,0.46,stagnan
+FULWAN_ASR__rh050,AR,gas,1897500,3.053e-05,12.96,0.00,15.63,0.07,"renik (sigma>10, tidak dinilai)"
+FULWAN_ASR__rh050,CO2,gas,1897500,0.001084,20.55,9.81,23.04,0.23,"renik (sigma>10, tidak dinilai)"
+FULWAN_ASR__rh100,N2,gas,1897500,0.0005174,6.05,-2.75,9.58,0.28,fluktuatif besar
+FULWAN_ASR__rh100,O2,gas,1897500,0.0005658,6.60,-1.95,9.63,0.33,fluktuatif besar
+FULWAN_ASR__rh100,H2O,gas,1897500,70.66,0.14,0.30,0.35,0.54,stagnan
+FULWAN_ASR__rh100,AR,gas,1897500,1.105e-05,13.88,-4.76,25.29,0.02,"renik (sigma>10, tidak dinilai)"
+FULWAN_ASR__rh100,CO2,gas,1897500,0.0003726,15.51,-14.12,21.22,0.15,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh000,N2,pjg3,147500,0.3693,0.57,0.30,0.81,0.52,stagnan
+GISMIG_ASR__rh000,O2,pjg3,147500,0.2363,0.66,-0.34,1.25,0.55,stagnan
+GISMIG_ASR__rh000,AR,pjg3,147500,0.01234,1.87,-2.54,3.71,0.38,fluktuatif
+GISMIG_ASR__rh000,CO2,pjg3,147500,1.691,5.55,6.01,9.28,0.48,fluktuatif besar
+GISMIG_ASR__rh025,N2,gas,97500,0.0054,10.02,-12.22,15.01,0.26,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh025,O2,gas,97500,0.0098,6.58,-9.59,11.13,0.21,fluktuatif besar
+GISMIG_ASR__rh025,AR,gas,97500,0.00076,11.09,-13.16,13.16,0.32,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh025,H2O,gas,97500,76.33,1.04,1.41,1.41,0.84,stagnan
+GISMIG_ASR__rh025,CO2,gas,97500,0.0053,90.08,-90.56,90.56,0.00,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh050,N2,50k,47500,0.00098,33.90,-6.12,17.69,0.33,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh050,O2,50k,47500,0.00222,24.77,13.52,22.91,0.67,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh050,H2O,50k,47500,87.59,1.42,-0.85,1.10,0.22,stagnan
+GISMIG_ASR__rh050,AR,50k,47500,0.00012,40.82,33.34,44.45,0.44,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh050,CO2,50k,47500,0,,,,,nol
+GISMIG_ASR__rh100,N2,50k,47500,0.00048,52.45,-74.99,74.99,0.00,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh100,O2,50k,47500,0.00098,43.69,-71.42,71.42,0.00,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh100,H2O,50k,47500,91.08,0.35,0.49,0.62,0.67,stagnan
+GISMIG_ASR__rh100,AR,50k,47500,6e-05,66.66,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+GISMIG_ASR__rh100,CO2,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh000,N2,gas,1897500,0.02111,0.15,-0.06,0.61,0.51,stagnan
+GUSNEN01_FSR__rh000,O2,gas,1897500,0.0191,0.42,-0.35,0.63,0.48,stagnan
+GUSNEN01_FSR__rh000,AR,gas,1897500,5.316e-05,8.77,-2.97,12.01,0.12,masih bergerak
+GUSNEN01_FSR__rh000,CO2,gas,1897500,1.456,0.81,-0.85,1.13,0.43,stagnan
+GUSNEN01_FSR__rh025,N2,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh025,O2,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh025,AR,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh025,H2O,50k,47500,75.12,0.61,-0.00,0.50,0.56,stagnan
+GUSNEN01_FSR__rh025,CO2,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh050,N2,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh050,O2,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh050,H2O,50k,47500,76.57,0.30,-0.31,0.36,0.33,stagnan
+GUSNEN01_FSR__rh050,AR,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh050,CO2,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh100,N2,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh100,O2,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh100,H2O,50k,47500,81.85,0.52,0.15,0.41,0.44,stagnan
+GUSNEN01_FSR__rh100,AR,50k,47500,0,,,,,nol
+GUSNEN01_FSR__rh100,CO2,50k,47500,0,,,,,nol
+HOFMAS_ASR__rh000,N2,pjg,147500,0.1107,1.00,-0.41,1.05,0.45,stagnan
+HOFMAS_ASR__rh000,O2,pjg,147500,0.1637,0.62,0.47,1.43,0.59,stagnan
+HOFMAS_ASR__rh000,AR,pjg,147500,0.007967,2.94,-1.42,3.45,0.48,fluktuatif
+HOFMAS_ASR__rh000,CO2,pjg,147500,0.3576,5.42,-0.72,11.24,0.38,fluktuatif besar
+HOFMAS_ASR__rh025,N2,gas,647500,0.005649,10.33,3.92,8.26,0.55,"renik (sigma>10, tidak dinilai)"
+HOFMAS_ASR__rh025,O2,gas,647500,0.01277,9.41,8.17,8.57,0.59,fluktuatif besar
+HOFMAS_ASR__rh025,AR,gas,647500,0.0008692,7.17,-0.88,8.03,0.38,fluktuatif besar
+HOFMAS_ASR__rh025,H2O,gas,647500,78.17,1.74,-1.32,1.52,0.36,stagnan
+HOFMAS_ASR__rh025,CO2,gas,647500,6.154e-05,23.38,10.00,34.97,0.11,"renik (sigma>10, tidak dinilai)"
+HOFMAS_ASR__rh050,N2,50k,47500,0.0005,26.07,-27.99,38.18,0.33,"renik (sigma>10, tidak dinilai)"
+HOFMAS_ASR__rh050,O2,50k,47500,0.00126,39.72,14.29,39.53,0.44,"renik (sigma>10, tidak dinilai)"
+HOFMAS_ASR__rh050,H2O,50k,47500,89.86,0.43,0.04,0.36,0.56,stagnan
+HOFMAS_ASR__rh050,AR,50k,47500,0.0001,54.76,60.00,85.00,0.33,"renik (sigma>10, tidak dinilai)"
+HOFMAS_ASR__rh050,CO2,50k,47500,0,,,,,nol
+HOFMAS_ASR__rh100,N2,50k,47500,4e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+HOFMAS_ASR__rh100,O2,50k,47500,0,,,,,nol
+HOFMAS_ASR__rh100,H2O,50k,47500,92.92,0.33,0.45,0.51,0.78,stagnan
+HOFMAS_ASR__rh100,AR,50k,47500,2e-05,99.99,100.00,117.64,0.11,"renik (sigma>10, tidak dinilai)"
+HOFMAS_ASR__rh100,CO2,50k,47500,0,,,,,nol
+IHECAB_ASR__rh000,N2,bgr,597500,0.005508,0.71,-0.45,1.85,0.50,stagnan
+IHECAB_ASR__rh000,O2,bgr,597500,0.01642,0.58,-1.42,1.77,0.45,stagnan
+IHECAB_ASR__rh000,AR,bgr,597500,0.0002067,5.62,-11.29,16.32,0.37,fluktuatif besar
+IHECAB_ASR__rh000,CO2,bgr,597500,0.2965,2.26,2.36,3.08,0.56,fluktuatif
+IHECAB_ASR__rh025,N2,gas,397500,0.002328,2.71,-0.32,3.43,0.49,fluktuatif
+IHECAB_ASR__rh025,O2,gas,397500,0.006962,1.87,-1.97,3.42,0.49,fluktuatif
+IHECAB_ASR__rh025,AR,gas,397500,7.75e-05,7.90,-9.68,15.84,0.18,masih bergerak
+IHECAB_ASR__rh025,H2O,gas,397500,24.19,0.40,-0.36,0.61,0.53,stagnan
+IHECAB_ASR__rh025,CO2,gas,397500,0.1299,2.49,-0.68,3.64,0.51,fluktuatif
+IHECAB_ASR__rh050,N2,gas,397500,0.001247,5.28,7.01,9.17,0.59,fluktuatif besar
+IHECAB_ASR__rh050,O2,gas,397500,0.004618,2.42,1.90,4.43,0.49,fluktuatif
+IHECAB_ASR__rh050,H2O,gas,397500,30.5,0.26,-0.20,0.32,0.43,stagnan
+IHECAB_ASR__rh050,AR,gas,397500,7.75e-05,9.40,-3.23,24.46,0.18,masih bergerak
+IHECAB_ASR__rh050,CO2,gas,397500,0.07515,3.56,2.42,5.93,0.46,fluktuatif besar
+IHECAB_ASR__rh100,N2,gas,1897500,0.0007679,1.67,1.71,2.92,0.60,fluktuatif
+IHECAB_ASR__rh100,O2,gas,1897500,0.003286,0.86,-0.08,1.89,0.44,stagnan
+IHECAB_ASR__rh100,H2O,gas,1897500,34.92,0.05,0.12,0.17,0.53,stagnan
+IHECAB_ASR__rh100,AR,gas,1897500,6.421e-05,6.43,-1.64,7.48,0.13,masih bergerak
+IHECAB_ASR__rh100,CO2,gas,1897500,0.03756,1.17,0.41,1.94,0.42,"renik (sigma>10, tidak dinilai)"
+KEDJEL_ASR__rh000,N2,pjg3,147500,0.5956,0.98,1.31,1.31,0.66,stagnan
+KEDJEL_ASR__rh000,O2,pjg3,147500,0.1343,0.87,1.69,1.69,0.62,stagnan
+KEDJEL_ASR__rh000,AR,pjg3,147500,0.005173,2.91,0.52,5.64,0.41,fluktuatif besar
+KEDJEL_ASR__rh000,CO2,pjg3,147500,1.575,1.58,-0.70,1.57,0.45,stagnan
+KEDJEL_ASR__rh025,N2,gas,147500,0.0244,8.55,-1.09,6.19,0.34,fluktuatif besar
+KEDJEL_ASR__rh025,O2,gas,147500,0.008687,7.23,3.61,7.03,0.55,fluktuatif besar
+KEDJEL_ASR__rh025,AR,gas,147500,0.0003867,12.96,-17.24,18.29,0.48,"renik (sigma>10, tidak dinilai)"
+KEDJEL_ASR__rh025,H2O,gas,147500,49.86,1.27,-0.49,1.63,0.45,stagnan
+KEDJEL_ASR__rh025,CO2,gas,147500,0.01722,9.72,14.60,14.60,0.48,"renik (sigma>10, tidak dinilai)"
+KEDJEL_ASR__rh050,N2,gas,547500,0.007302,4.09,-0.90,6.39,0.41,fluktuatif besar
+KEDJEL_ASR__rh050,O2,gas,547500,0.002736,3.82,-3.26,6.36,0.44,fluktuatif besar
+KEDJEL_ASR__rh050,H2O,gas,547500,57.24,0.26,0.56,0.74,0.50,stagnan
+KEDJEL_ASR__rh050,AR,gas,547500,0.0001109,7.95,4.92,18.56,0.24,fluktuatif besar
+KEDJEL_ASR__rh050,CO2,gas,547500,0.003362,11.44,13.03,23.84,0.32,"renik (sigma>10, tidak dinilai)"
+KEDJEL_ASR__rh100,N2,50k,47500,0.00172,21.39,-18.60,25.96,0.22,"renik (sigma>10, tidak dinilai)"
+KEDJEL_ASR__rh100,O2,50k,47500,0.00106,21.63,5.66,16.83,0.44,"renik (sigma>10, tidak dinilai)"
+KEDJEL_ASR__rh100,H2O,50k,47500,60.59,0.79,0.66,1.01,0.44,stagnan
+KEDJEL_ASR__rh100,AR,50k,47500,4e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+KEDJEL_ASR__rh100,CO2,50k,47500,0.00068,71.04,-82.35,82.35,0.00,"renik (sigma>10, tidak dinilai)"
+KENTEF05_ion__rh000,N2,gcmcbaru_pjg,147500,3.704,0.42,-0.04,0.41,0.48,stagnan
+KENTEF05_ion__rh000,O2,gcmcbaru_pjg,147500,1.414,0.47,0.13,0.50,0.55,stagnan
+KENTEF05_ion__rh000,AR,gcmcbaru_pjg,147500,0.07125,1.24,1.13,1.51,0.62,stagnan
+KENTEF05_ion__rh000,CO2,gcmcbaru_pjg,147500,4.581,5.73,4.85,6.34,0.52,fluktuatif besar
+KENTEF05_ion__rh025,N2,gcmcbaru_pjg,147500,3.508,0.55,-0.90,0.91,0.38,stagnan
+KENTEF05_ion__rh025,O2,gcmcbaru_pjg,147500,1.345,0.62,0.36,0.70,0.59,stagnan
+KENTEF05_ion__rh025,AR,gcmcbaru_pjg,147500,0.06816,1.54,1.19,1.80,0.62,stagnan
+KENTEF05_ion__rh025,H2O,gcmcbaru_pjg,147500,2.834,2.50,1.78,2.86,0.55,fluktuatif
+KENTEF05_ion__rh025,CO2,gcmcbaru_pjg,147500,4.487,2.22,0.41,2.96,0.52,fluktuatif
+KENTEF05_ion__rh050,N2,gcmcbaru_pjg,147500,3.328,0.85,0.39,0.89,0.52,stagnan
+KENTEF05_ion__rh050,O2,gcmcbaru_pjg,147500,1.296,0.55,1.18,1.23,0.66,stagnan
+KENTEF05_ion__rh050,H2O,gcmcbaru_pjg,147500,6.153,1.65,-1.19,2.63,0.45,fluktuatif
+KENTEF05_ion__rh050,AR,gcmcbaru_pjg,147500,0.06525,0.88,0.44,0.94,0.55,stagnan
+KENTEF05_ion__rh050,CO2,gcmcbaru_pjg,147500,3.976,5.01,-10.55,10.55,0.28,fluktuatif besar
+KENTEF05_ion__rh100,N2,gcmcbaru_pjg,147500,2.955,0.73,-0.87,0.94,0.38,stagnan
+KENTEF05_ion__rh100,O2,gcmcbaru_pjg,147500,1.152,0.33,0.10,0.57,0.45,stagnan
+KENTEF05_ion__rh100,H2O,gcmcbaru_pjg,147500,13.11,3.16,5.50,5.67,0.59,fluktuatif besar
+KENTEF05_ion__rh100,AR,gcmcbaru_pjg,147500,0.05919,1.67,-1.53,1.77,0.41,stagnan
+KENTEF05_ion__rh100,CO2,gcmcbaru_pjg,147500,3.184,4.85,-3.28,6.95,0.38,fluktuatif besar
+KENTEF_ion__rh000,N2,gcmcbaru_pjg,147500,3.711,0.54,0.36,0.67,0.52,stagnan
+KENTEF_ion__rh000,O2,gcmcbaru_pjg,147500,1.427,0.40,0.60,0.78,0.52,stagnan
+KENTEF_ion__rh000,AR,gcmcbaru_pjg,147500,0.07182,1.01,-1.10,1.10,0.41,stagnan
+KENTEF_ion__rh000,CO2,gcmcbaru_pjg,147500,4.801,5.38,-1.80,5.10,0.41,fluktuatif besar
+KENTEF_ion__rh025,N2,gcmcbaru_pjg,147500,3.519,0.69,-1.03,1.03,0.28,stagnan
+KENTEF_ion__rh025,O2,gcmcbaru_pjg,147500,1.357,0.55,0.07,0.89,0.52,stagnan
+KENTEF_ion__rh025,AR,gcmcbaru_pjg,147500,0.06977,0.95,0.31,1.08,0.45,stagnan
+KENTEF_ion__rh025,H2O,gcmcbaru_pjg,147500,3.246,3.38,0.63,3.16,0.38,fluktuatif
+KENTEF_ion__rh025,CO2,gcmcbaru_pjg,147500,4.138,2.81,0.40,3.70,0.48,fluktuatif
+KENTEF_ion__rh050,N2,gcmcbaru_pjg,147500,3.359,0.35,0.07,0.44,0.55,stagnan
+KENTEF_ion__rh050,O2,gcmcbaru_pjg,147500,1.284,0.57,-0.61,0.85,0.45,stagnan
+KENTEF_ion__rh050,H2O,gcmcbaru_pjg,147500,6.673,2.45,6.16,6.23,0.69,fluktuatif besar
+KENTEF_ion__rh050,AR,gcmcbaru_pjg,147500,0.06437,0.61,0.16,0.74,0.52,stagnan
+KENTEF_ion__rh050,CO2,gcmcbaru_pjg,147500,3.874,1.50,0.94,3.18,0.59,fluktuatif
+KENTEF_ion__rh100,N2,gcmcbaru_pjg,147500,2.916,0.38,0.31,0.53,0.55,stagnan
+KENTEF_ion__rh100,O2,gcmcbaru_pjg,147500,1.141,0.41,0.30,0.62,0.38,stagnan
+KENTEF_ion__rh100,H2O,gcmcbaru_pjg,147500,15.16,1.68,-4.16,4.34,0.31,fluktuatif
+KENTEF_ion__rh100,AR,gcmcbaru_pjg,147500,0.05847,1.49,2.12,2.32,0.66,fluktuatif
+KENTEF_ion__rh100,CO2,gcmcbaru_pjg,147500,2.965,3.03,-2.36,4.62,0.48,fluktuatif
+KENVIL_ion__rh000,N2,pjg,147500,3.68,0.81,0.39,0.63,0.62,stagnan
+KENVIL_ion__rh000,O2,pjg,147500,1.436,0.29,-0.35,0.58,0.48,stagnan
+KENVIL_ion__rh000,AR,pjg,147500,0.07192,0.61,-0.41,0.73,0.41,stagnan
+KENVIL_ion__rh000,CO2,pjg,147500,5.336,4.39,-0.70,2.71,0.45,fluktuatif
+KENVIL_ion__rh025,N2,pjg3,147500,3.525,0.78,-0.40,0.63,0.45,stagnan
+KENVIL_ion__rh025,O2,pjg3,147500,1.363,0.62,-0.04,0.46,0.48,stagnan
+KENVIL_ion__rh025,AR,pjg3,147500,0.06721,0.65,-0.76,1.21,0.52,stagnan
+KENVIL_ion__rh025,H2O,pjg3,147500,2.688,2.05,3.98,4.42,0.55,fluktuatif
+KENVIL_ion__rh025,CO2,pjg3,147500,4.951,3.53,-4.84,5.24,0.41,fluktuatif besar
+KENVIL_ion__rh050,N2,pjg5,597500,3.366,0.57,0.75,0.93,0.58,stagnan
+KENVIL_ion__rh050,O2,pjg5,597500,1.315,0.23,-0.18,0.27,0.50,stagnan
+KENVIL_ion__rh050,H2O,pjg5,597500,5.808,0.77,0.31,1.18,0.49,stagnan
+KENVIL_ion__rh050,AR,pjg5,597500,0.06524,0.63,0.99,1.25,0.52,stagnan
+KENVIL_ion__rh050,CO2,pjg5,597500,4.128,2.60,-2.05,2.40,0.39,fluktuatif
+KENVIL_ion__rh100,N2,pjg3,147500,3.006,0.62,-1.06,1.09,0.34,stagnan
+KENVIL_ion__rh100,O2,pjg3,147500,1.168,0.72,-0.64,0.83,0.45,stagnan
+KENVIL_ion__rh100,H2O,pjg3,147500,13.22,3.66,0.80,3.88,0.45,fluktuatif
+KENVIL_ion__rh100,AR,pjg3,147500,0.05985,1.05,-1.81,1.91,0.31,stagnan
+KENVIL_ion__rh100,CO2,pjg3,147500,3.061,2.53,1.21,5.71,0.34,fluktuatif besar
+KENVOR02_ion__rh000,N2,pjg3,147500,3.348,0.25,0.28,0.53,0.45,stagnan
+KENVOR02_ion__rh000,O2,pjg3,147500,1.371,0.29,-0.18,0.56,0.45,stagnan
+KENVOR02_ion__rh000,AR,pjg3,147500,0.06895,1.30,-0.22,1.02,0.41,stagnan
+KENVOR02_ion__rh000,CO2,pjg3,147500,3.945,3.39,1.38,3.83,0.55,fluktuatif
+KENVOR02_ion__rh025,N2,pjg3,147500,3.276,0.30,0.06,0.56,0.55,stagnan
+KENVOR02_ion__rh025,O2,pjg3,147500,1.35,0.64,0.08,0.40,0.41,stagnan
+KENVOR02_ion__rh025,AR,pjg3,147500,0.06785,0.78,0.73,0.92,0.55,stagnan
+KENVOR02_ion__rh025,H2O,pjg3,147500,0.9,2.07,0.64,1.73,0.52,stagnan
+KENVOR02_ion__rh025,CO2,pjg3,147500,3.746,4.48,-5.69,7.68,0.28,fluktuatif besar
+KENVOR02_ion__rh050,N2,pjg3,147500,3.237,0.80,-1.10,1.10,0.38,stagnan
+KENVOR02_ion__rh050,O2,pjg3,147500,1.343,0.62,-0.22,0.68,0.38,stagnan
+KENVOR02_ion__rh050,H2O,pjg3,147500,1.876,1.79,0.85,2.78,0.52,fluktuatif
+KENVOR02_ion__rh050,AR,pjg3,147500,0.06579,1.34,-2.05,2.35,0.24,fluktuatif
+KENVOR02_ion__rh050,CO2,pjg3,147500,3.705,4.84,2.09,5.72,0.48,fluktuatif besar
+KENVOR02_ion__rh100,N2,pjg,147500,3.117,0.47,-0.48,0.65,0.38,stagnan
+KENVOR02_ion__rh100,O2,pjg,147500,1.275,0.57,0.16,0.39,0.45,stagnan
+KENVOR02_ion__rh100,H2O,pjg,147500,4.229,3.00,3.84,4.71,0.48,fluktuatif
+KENVOR02_ion__rh100,AR,pjg,147500,0.06401,1.61,-1.44,2.49,0.45,fluktuatif
+KENVOR02_ion__rh100,CO2,pjg,147500,3.547,3.10,2.25,5.20,0.59,fluktuatif besar
+KENVOR_ion__rh000,N2,50k,47500,3.259,0.83,-1.48,1.48,0.11,stagnan
+KENVOR_ion__rh000,O2,50k,47500,1.344,1.14,1.44,1.61,0.56,stagnan
+KENVOR_ion__rh000,AR,50k,47500,0.06914,1.16,-0.72,1.19,0.33,stagnan
+KENVOR_ion__rh000,CO2,50k,47500,7.97,4.70,-7.47,7.47,0.22,fluktuatif besar
+KENVOR_ion__rh025,N2,pjg,147500,3.099,0.29,-0.17,0.52,0.38,stagnan
+KENVOR_ion__rh025,O2,pjg,147500,1.292,0.48,-0.89,1.05,0.34,stagnan
+KENVOR_ion__rh025,AR,pjg,147500,0.0643,1.43,-1.15,1.35,0.38,stagnan
+KENVOR_ion__rh025,H2O,pjg,147500,3.032,3.51,3.43,5.25,0.59,fluktuatif besar
+KENVOR_ion__rh025,CO2,pjg,147500,6.874,3.35,-2.91,4.27,0.41,fluktuatif
+KENVOR_ion__rh050,N2,pjg5,597500,2.979,0.49,-0.57,0.79,0.47,stagnan
+KENVOR_ion__rh050,O2,pjg5,597500,1.237,0.16,-0.02,0.31,0.51,stagnan
+KENVOR_ion__rh050,H2O,pjg5,597500,6.432,1.67,-1.22,2.08,0.43,fluktuatif
+KENVOR_ion__rh050,AR,pjg5,597500,0.06153,0.57,-0.54,1.04,0.41,stagnan
+KENVOR_ion__rh050,CO2,pjg5,597500,6.09,2.07,2.48,4.04,0.55,fluktuatif
+KENVOR_ion__rh100,N2,pjg5,597500,2.711,0.32,0.22,0.63,0.54,stagnan
+KENVOR_ion__rh100,O2,pjg5,597500,1.124,0.31,0.36,0.52,0.50,stagnan
+KENVOR_ion__rh100,H2O,pjg5,597500,13.25,1.59,0.00,0.83,0.44,stagnan
+KENVOR_ion__rh100,AR,pjg5,597500,0.05678,0.73,0.83,1.18,0.56,stagnan
+KENVOR_ion__rh100,CO2,pjg5,597500,4.966,2.85,-2.56,3.95,0.41,fluktuatif
+KEPFIX02_ion__rh000,N2,gcmcbaru_pjg,147500,3.901,0.14,-0.07,0.48,0.52,stagnan
+KEPFIX02_ion__rh000,O2,gcmcbaru_pjg,147500,1.52,0.40,0.00,0.33,0.55,stagnan
+KEPFIX02_ion__rh000,AR,gcmcbaru_pjg,147500,0.07596,0.49,0.32,1.07,0.55,stagnan
+KEPFIX02_ion__rh000,CO2,gcmcbaru_pjg,147500,3.765,1.36,4.40,6.14,0.55,fluktuatif besar
+KEPFIX02_ion__rh025,N2,gcmcbaru_pjg,147500,3.762,0.53,0.23,0.91,0.55,stagnan
+KEPFIX02_ion__rh025,O2,gcmcbaru_pjg,147500,1.473,0.22,0.01,0.49,0.48,stagnan
+KEPFIX02_ion__rh025,AR,gcmcbaru_pjg,147500,0.07325,1.26,2.15,2.41,0.69,fluktuatif
+KEPFIX02_ion__rh025,H2O,gcmcbaru_pjg,147500,2.059,1.70,0.22,2.99,0.41,fluktuatif
+KEPFIX02_ion__rh025,CO2,gcmcbaru_pjg,147500,3.506,2.79,-0.82,3.33,0.41,fluktuatif
+KEPFIX02_ion__rh050,N2,gcmcbaru_pjg,147500,3.655,0.82,0.27,0.91,0.45,stagnan
+KEPFIX02_ion__rh050,O2,gcmcbaru_pjg,147500,1.421,0.70,0.07,0.51,0.59,stagnan
+KEPFIX02_ion__rh050,H2O,gcmcbaru_pjg,147500,4.443,0.76,-0.60,2.58,0.45,fluktuatif
+KEPFIX02_ion__rh050,AR,gcmcbaru_pjg,147500,0.06947,0.47,-0.52,0.61,0.34,stagnan
+KEPFIX02_ion__rh050,CO2,gcmcbaru_pjg,147500,3.173,3.70,0.39,2.15,0.41,fluktuatif
+KEPFIX02_ion__rh100,N2,gcmcbaru_pjg,147500,3.345,0.78,0.49,0.54,0.48,stagnan
+KEPFIX02_ion__rh100,O2,gcmcbaru_pjg,147500,1.295,0.57,0.78,1.14,0.66,stagnan
+KEPFIX02_ion__rh100,H2O,gcmcbaru_pjg,147500,9.558,3.50,-6.91,6.91,0.21,fluktuatif besar
+KEPFIX02_ion__rh100,AR,gcmcbaru_pjg,147500,0.06644,0.95,1.83,2.17,0.62,fluktuatif
+KEPFIX02_ion__rh100,CO2,gcmcbaru_pjg,147500,2.734,3.43,-0.16,3.93,0.48,fluktuatif
+LINQOR_ASR__rh000,N2,gas,1897500,7.579e-05,10.83,11.11,13.64,0.18,"renik (sigma>10, tidak dinilai)"
+LINQOR_ASR__rh000,O2,gas,1897500,0.002981,1.31,3.13,3.17,0.50,fluktuatif
+LINQOR_ASR__rh000,AR,gas,1897500,1.368e-05,11.21,23.08,31.15,0.04,"renik (sigma>10, tidak dinilai)"
+LINQOR_ASR__rh000,CO2,gas,1897500,0.02429,1.09,-3.06,4.44,0.39,"renik (sigma>10, tidak dinilai)"
+LINQOR_ASR__rh025,N2,gas,1447500,4.138e-06,40.82,-66.67,76.83,0.00,"renik (sigma>10, tidak dinilai)"
+LINQOR_ASR__rh025,O2,gas,1447500,0.0001731,7.36,-5.18,8.14,0.33,fluktuatif besar
+LINQOR_ASR__rh025,AR,gas,1447500,1.379e-06,61.23,0.00,52.63,0.00,"renik (sigma>10, tidak dinilai)"
+LINQOR_ASR__rh025,H2O,gas,1447500,78.43,0.80,0.23,0.53,0.52,stagnan
+LINQOR_ASR__rh025,CO2,gas,1447500,0.001193,6.97,-9.60,12.41,0.23,"renik (sigma>10, tidak dinilai)"
+LINQOR_ASR__rh050,N2,50k,47500,0,,,,,nol
+LINQOR_ASR__rh050,O2,50k,47500,0,,,,,nol
+LINQOR_ASR__rh050,H2O,50k,47500,91.88,1.25,-1.69,1.69,0.11,stagnan
+LINQOR_ASR__rh050,AR,50k,47500,0,,,,,nol
+LINQOR_ASR__rh050,CO2,50k,47500,8e-05,46.76,50.00,77.78,0.33,"renik (sigma>10, tidak dinilai)"
+LINQOR_ASR__rh100,N2,bgr,147500,0,,,,,nol
+LINQOR_ASR__rh100,O2,bgr,147500,1.333e-05,61.23,0.00,58.78,0.03,"renik (sigma>10, tidak dinilai)"
+LINQOR_ASR__rh100,H2O,bgr,147500,99.49,1.22,0.08,0.50,0.52,stagnan
+LINQOR_ASR__rh100,AR,bgr,147500,0,,,,,nol
+LINQOR_ASR__rh100,CO2,bgr,147500,5.333e-05,57.95,-50.00,52.17,0.03,"renik (sigma>10, tidak dinilai)"
+NARHEV_ion__rh000,N2,pjg3,147500,0.5593,3.32,2.58,5.07,0.55,fluktuatif besar
+NARHEV_ion__rh000,O2,pjg3,147500,0.1735,2.36,2.89,4.37,0.59,fluktuatif
+NARHEV_ion__rh000,AR,pjg3,147500,0.00888,1.55,3.15,5.20,0.62,fluktuatif besar
+NARHEV_ion__rh000,CO2,pjg3,147500,9.594,1.44,-1.97,3.15,0.45,fluktuatif
+NARHEV_ion__rh025,N2,gas,297500,0.002527,14.35,7.92,11.31,0.41,"renik (sigma>10, tidak dinilai)"
+NARHEV_ion__rh025,O2,gas,297500,0.00077,9.66,13.42,17.21,0.49,fluktuatif besar
+NARHEV_ion__rh025,AR,gas,297500,5e-05,21.08,20.00,26.82,0.15,"renik (sigma>10, tidak dinilai)"
+NARHEV_ion__rh025,H2O,gas,297500,87.78,0.39,0.42,0.44,0.64,stagnan
+NARHEV_ion__rh025,CO2,gas,297500,0.008293,32.93,-37.94,43.94,0.17,"renik (sigma>10, tidak dinilai)"
+NARHEV_ion__rh050,N2,50k,47500,0.00066,24.71,9.09,26.42,0.44,"renik (sigma>10, tidak dinilai)"
+NARHEV_ion__rh050,O2,50k,47500,0.00026,37.68,-23.07,42.85,0.33,"renik (sigma>10, tidak dinilai)"
+NARHEV_ion__rh050,H2O,50k,47500,89.92,0.91,-1.66,1.66,0.00,stagnan
+NARHEV_ion__rh050,AR,50k,47500,8e-05,46.76,0.00,56.41,0.22,"renik (sigma>10, tidak dinilai)"
+NARHEV_ion__rh050,CO2,50k,47500,0.0001,44.71,20.00,42.86,0.22,"renik (sigma>10, tidak dinilai)"
+NARHEV_ion__rh100,N2,50k,47500,0,,,,,nol
+NARHEV_ion__rh100,O2,50k,47500,0,,,,,nol
+NARHEV_ion__rh100,H2O,50k,47500,91.59,0.36,0.38,0.49,0.78,stagnan
+NARHEV_ion__rh100,AR,50k,47500,0,,,,,nol
+NARHEV_ion__rh100,CO2,50k,47500,2e-05,99.99,100.00,111.11,0.11,"renik (sigma>10, tidak dinilai)"
+OCEGOV_ASR__rh000,N2,pjg3,147500,2.235,1.64,-0.43,1.34,0.52,stagnan
+OCEGOV_ASR__rh000,O2,pjg3,147500,0.8149,1.15,0.73,1.70,0.52,stagnan
+OCEGOV_ASR__rh000,AR,pjg3,147500,0.04749,2.18,-0.25,1.70,0.52,stagnan
+OCEGOV_ASR__rh000,CO2,pjg3,147500,7.949,3.14,-0.53,3.06,0.52,fluktuatif
+OCEGOV_ASR__rh025,N2,pjg4,597500,0.9437,1.03,-0.37,2.04,0.50,fluktuatif
+OCEGOV_ASR__rh025,O2,pjg4,597500,0.412,0.74,-0.25,1.82,0.46,stagnan
+OCEGOV_ASR__rh025,AR,pjg4,597500,0.02547,1.13,0.04,2.32,0.50,fluktuatif
+OCEGOV_ASR__rh025,H2O,pjg4,597500,33.52,1.59,0.71,2.27,0.47,fluktuatif
+OCEGOV_ASR__rh025,CO2,pjg4,597500,2.411,2.82,-2.73,2.80,0.39,fluktuatif
+OCEGOV_ASR__rh050,N2,pjg4,597500,0.2914,3.26,-3.95,4.55,0.42,fluktuatif
+OCEGOV_ASR__rh050,O2,pjg4,597500,0.1558,2.21,-1.84,3.10,0.41,fluktuatif
+OCEGOV_ASR__rh050,H2O,pjg4,597500,56.85,0.66,0.81,0.91,0.61,stagnan
+OCEGOV_ASR__rh050,AR,pjg4,597500,0.009975,2.46,-1.72,3.47,0.42,fluktuatif
+OCEGOV_ASR__rh050,CO2,pjg4,597500,0.5618,3.85,-7.95,8.32,0.28,fluktuatif besar
+OCEGOV_ASR__rh100,N2,pjg4,597500,0.07824,5.47,5.31,7.41,0.49,fluktuatif besar
+OCEGOV_ASR__rh100,O2,pjg4,597500,0.05931,3.46,3.51,5.09,0.54,fluktuatif besar
+OCEGOV_ASR__rh100,H2O,pjg4,597500,67.1,0.40,-0.43,0.60,0.49,stagnan
+OCEGOV_ASR__rh100,AR,pjg4,597500,0.004067,3.56,1.97,4.38,0.52,fluktuatif
+OCEGOV_ASR__rh100,CO2,pjg4,597500,0.1019,6.92,9.52,12.54,0.47,fluktuatif besar
+PAVXUJ_ion__rh000,N2,pjg3,147500,0.132,1.99,2.10,2.32,0.62,fluktuatif
+PAVXUJ_ion__rh000,O2,pjg3,147500,0.04261,1.47,-0.69,1.08,0.38,stagnan
+PAVXUJ_ion__rh000,AR,pjg3,147500,0.00164,8.51,-12.19,12.19,0.38,fluktuatif besar
+PAVXUJ_ion__rh000,CO2,pjg3,147500,0.1665,3.04,-2.04,3.21,0.45,fluktuatif
+PAVXUJ_ion__rh025,N2,50k,47500,0.00118,38.59,-5.08,16.57,0.33,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh025,O2,50k,47500,0.0008,21.28,-5.00,13.33,0.33,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh025,AR,50k,47500,2e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh025,H2O,50k,47500,62.22,1.40,-1.97,1.97,0.33,stagnan
+PAVXUJ_ion__rh025,CO2,50k,47500,0.0003,52.70,-46.66,46.66,0.11,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh050,N2,50k,47500,0.0003,27.88,-33.33,33.33,0.56,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh050,O2,50k,47500,0.00038,32.65,5.27,36.84,0.44,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh050,H2O,50k,47500,69.06,0.62,1.29,1.29,0.78,stagnan
+PAVXUJ_ion__rh050,AR,50k,47500,2e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh050,CO2,50k,47500,0.0001,44.71,100.00,100.00,0.33,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh100,N2,50k,47500,4e-05,99.99,100.00,166.66,0.22,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh100,O2,50k,47500,0.00016,25.00,25.00,50.00,0.44,"renik (sigma>10, tidak dinilai)"
+PAVXUJ_ion__rh100,H2O,50k,47500,74.12,0.60,0.71,0.89,0.78,stagnan
+PAVXUJ_ion__rh100,AR,50k,47500,0,,,,,nol
+PAVXUJ_ion__rh100,CO2,50k,47500,0,,,,,nol
+PEVZAT_ASR__rh000,N2,gcmcbaru,47500,0.2634,1.41,0.20,1.63,0.56,stagnan
+PEVZAT_ASR__rh000,O2,gcmcbaru,47500,0.2372,1.47,-0.20,1.41,0.67,stagnan
+PEVZAT_ASR__rh000,AR,gcmcbaru,47500,0.00976,5.35,-1.23,4.66,0.33,fluktuatif
+PEVZAT_ASR__rh000,CO2,gcmcbaru,47500,1.151,7.75,-2.72,12.73,0.33,fluktuatif besar
+PEVZAT_ASR__rh025,N2,gcmcbaru,47500,0.1375,2.23,0.70,2.09,0.67,fluktuatif
+PEVZAT_ASR__rh025,O2,gcmcbaru,47500,0.1239,2.75,-0.08,2.00,0.67,stagnan
+PEVZAT_ASR__rh025,AR,gcmcbaru,47500,0.0063,7.19,-11.11,11.11,0.22,fluktuatif besar
+PEVZAT_ASR__rh025,H2O,gcmcbaru,47500,61.57,2.74,1.15,1.62,0.56,stagnan
+PEVZAT_ASR__rh025,CO2,gcmcbaru,47500,0.00716,16.04,-24.58,24.58,0.11,"renik (sigma>10, tidak dinilai)"
+PEVZAT_ASR__rh050,N2,gcmcbaru,47500,0.03178,11.17,-20.57,20.57,0.11,"renik (sigma>10, tidak dinilai)"
+PEVZAT_ASR__rh050,O2,gcmcbaru,47500,0.02614,13.30,-25.01,25.01,0.11,"renik (sigma>10, tidak dinilai)"
+PEVZAT_ASR__rh050,H2O,gcmcbaru,47500,95.69,1.54,2.60,2.60,0.89,masih bergerak (kecil)
+PEVZAT_ASR__rh050,AR,gcmcbaru,47500,0.00146,11.17,-15.06,15.91,0.22,"renik (sigma>10, tidak dinilai)"
+PEVZAT_ASR__rh050,CO2,gcmcbaru,47500,0.0017,13.28,-10.58,17.64,0.44,"renik (sigma>10, tidak dinilai)"
+PEVZAT_ASR__rh100,N2,gcmcbaru,47500,0.00362,27.71,-28.17,29.95,0.11,"renik (sigma>10, tidak dinilai)"
+PEVZAT_ASR__rh100,O2,gcmcbaru,47500,0.00254,35.16,-33.85,33.85,0.00,"renik (sigma>10, tidak dinilai)"
+PEVZAT_ASR__rh100,H2O,gcmcbaru,47500,106.6,0.33,0.06,0.26,0.67,stagnan
+PEVZAT_ASR__rh100,AR,gcmcbaru,47500,0.00018,20.78,-11.11,19.61,0.44,"renik (sigma>10, tidak dinilai)"
+PEVZAT_ASR__rh100,CO2,gcmcbaru,47500,0.00014,48.44,-42.85,53.84,0.22,"renik (sigma>10, tidak dinilai)"
+PEXBIF01_ASR__rh000,N2,pjg3,147500,0.3478,0.93,1.15,1.52,0.69,stagnan
+PEXBIF01_ASR__rh000,O2,pjg3,147500,0.1965,0.39,0.04,0.78,0.41,stagnan
+PEXBIF01_ASR__rh000,AR,pjg3,147500,0.01016,1.29,-0.13,2.14,0.41,fluktuatif
+PEXBIF01_ASR__rh000,CO2,pjg3,147500,2.038,2.93,-0.57,4.29,0.41,fluktuatif
+PEXBIF01_ASR__rh025,N2,gas,197500,0.00411,9.02,7.79,13.72,0.46,fluktuatif besar
+PEXBIF01_ASR__rh025,O2,gas,197500,0.005605,3.68,1.70,4.64,0.51,fluktuatif
+PEXBIF01_ASR__rh025,AR,gas,197500,0.00031,20.17,-25.81,27.33,0.36,"renik (sigma>10, tidak dinilai)"
+PEXBIF01_ASR__rh025,H2O,gas,197500,71.93,0.54,1.33,1.54,0.72,stagnan
+PEXBIF01_ASR__rh025,CO2,gas,197500,0.000435,28.07,10.35,24.95,0.36,"renik (sigma>10, tidak dinilai)"
+PEXBIF01_ASR__rh050,N2,gas,1897500,0.0007337,13.96,-5.02,18.87,0.33,"renik (sigma>10, tidak dinilai)"
+PEXBIF01_ASR__rh050,O2,gas,1897500,0.001507,7.54,-0.63,9.35,0.43,fluktuatif besar
+PEXBIF01_ASR__rh050,H2O,gas,1897500,80.58,0.29,-0.08,0.44,0.49,stagnan
+PEXBIF01_ASR__rh050,AR,gas,1897500,7.947e-05,7.79,7.28,10.82,0.18,masih bergerak
+PEXBIF01_ASR__rh050,CO2,gas,1897500,9.947e-05,33.43,-50.26,52.82,0.05,"renik (sigma>10, tidak dinilai)"
+PEXBIF01_ASR__rh100,N2,50k,47500,0.00014,36.42,14.29,34.07,0.44,"renik (sigma>10, tidak dinilai)"
+PEXBIF01_ASR__rh100,O2,50k,47500,0.0005,28.28,-4.00,24.00,0.44,"renik (sigma>10, tidak dinilai)"
+PEXBIF01_ASR__rh100,H2O,50k,47500,87.16,0.70,0.61,0.62,0.56,stagnan
+PEXBIF01_ASR__rh100,AR,50k,47500,2e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+PEXBIF01_ASR__rh100,CO2,50k,47500,4e-05,99.99,100.00,125.00,0.11,"renik (sigma>10, tidak dinilai)"
+QOVWOO_FSR__rh000,N2,gas,647500,0.01155,0.88,-1.23,2.03,0.47,fluktuatif
+QOVWOO_FSR__rh000,O2,gas,647500,0.03702,0.46,0.79,1.02,0.53,stagnan
+QOVWOO_FSR__rh000,AR,gas,647500,8.308e-05,12.89,-22.22,25.95,0.16,"renik (sigma>10, tidak dinilai)"
+QOVWOO_FSR__rh000,CO2,gas,647500,0.3986,1.47,1.24,2.49,0.46,fluktuatif
+QOVWOO_FSR__rh025,N2,gas,1897500,3.158e-05,10.20,6.67,12.04,0.08,"renik (sigma>10, tidak dinilai)"
+QOVWOO_FSR__rh025,O2,gas,1897500,0.0001537,2.90,-2.74,9.99,0.28,fluktuatif besar
+QOVWOO_FSR__rh025,AR,gas,1897500,0,,,,,nol
+QOVWOO_FSR__rh025,H2O,gas,1897500,51.87,0.42,0.73,0.86,0.63,stagnan
+QOVWOO_FSR__rh025,CO2,gas,1897500,0.001498,15.25,-23.05,23.72,0.12,"renik (sigma>10, tidak dinilai)"
+QOVWOO_FSR__rh050,N2,gas,1897500,1.421e-05,20.78,11.11,26.44,0.04,"renik (sigma>10, tidak dinilai)"
+QOVWOO_FSR__rh050,O2,gas,1897500,8.947e-05,10.64,-17.65,19.12,0.16,"renik (sigma>10, tidak dinilai)"
+QOVWOO_FSR__rh050,H2O,gas,1897500,53.65,0.36,0.47,0.52,0.55,stagnan
+QOVWOO_FSR__rh050,AR,gas,1897500,0,,,,,nol
+QOVWOO_FSR__rh050,CO2,gas,1897500,0.0006795,17.97,30.29,35.42,0.11,"renik (sigma>10, tidak dinilai)"
+QOVWOO_FSR__rh100,N2,gas,1897500,5.263e-06,27.38,0.00,37.43,0.01,"renik (sigma>10, tidak dinilai)"
+QOVWOO_FSR__rh100,O2,gas,1897500,2.947e-05,5.21,-10.71,20.98,0.06,masih bergerak
+QOVWOO_FSR__rh100,H2O,gas,1897500,57.07,0.28,0.48,0.54,0.60,stagnan
+QOVWOO_FSR__rh100,AR,gas,1897500,0,,,,,nol
+QOVWOO_FSR__rh100,CO2,gas,1897500,0.0001,21.46,-35.79,36.13,0.08,"renik (sigma>10, tidak dinilai)"
+QOVWOP_ASR__rh000,N2,pjg4,597500,0.1562,0.23,-0.65,0.79,0.45,stagnan
+QOVWOP_ASR__rh000,O2,pjg4,597500,0.1548,0.44,-0.15,0.30,0.53,stagnan
+QOVWOP_ASR__rh000,AR,pjg4,597500,0.0076,1.08,0.35,1.57,0.54,stagnan
+QOVWOP_ASR__rh000,CO2,pjg4,597500,0.2319,3.12,2.26,4.07,0.52,fluktuatif
+QOVWOP_ASR__rh025,N2,50k,47500,0.05906,2.23,1.39,1.90,0.67,stagnan
+QOVWOP_ASR__rh025,O2,50k,47500,0.0596,3.91,-4.76,4.76,0.33,fluktuatif
+QOVWOP_ASR__rh025,AR,50k,47500,0.00348,5.99,10.35,10.35,0.67,fluktuatif besar
+QOVWOP_ASR__rh025,H2O,50k,47500,24.47,2.40,-2.59,3.28,0.22,fluktuatif
+QOVWOP_ASR__rh025,CO2,50k,47500,0.01532,26.05,44.39,44.39,0.33,"renik (sigma>10, tidak dinilai)"
+QOVWOP_ASR__rh050,N2,bgr,147500,0.04479,1.72,-2.42,3.47,0.45,fluktuatif
+QOVWOP_ASR__rh050,O2,bgr,147500,0.04352,2.84,-0.86,4.04,0.52,fluktuatif
+QOVWOP_ASR__rh050,H2O,bgr,147500,29.28,1.47,1.70,2.47,0.72,fluktuatif
+QOVWOP_ASR__rh050,AR,bgr,147500,0.002593,6.48,-4.37,6.79,0.41,fluktuatif besar
+QOVWOP_ASR__rh050,CO2,bgr,147500,0.00338,12.19,0.20,14.29,0.31,"renik (sigma>10, tidak dinilai)"
+QOVWOP_ASR__rh100,N2,gas,97500,0.02813,3.79,1.18,5.01,0.58,fluktuatif besar
+QOVWOP_ASR__rh100,O2,gas,97500,0.02609,4.70,-4.10,6.45,0.37,fluktuatif besar
+QOVWOP_ASR__rh100,H2O,gas,97500,32.9,0.80,1.02,1.27,0.63,stagnan
+QOVWOP_ASR__rh100,AR,gas,97500,0.00164,10.44,-14.63,17.30,0.32,"renik (sigma>10, tidak dinilai)"
+QOVWOP_ASR__rh100,CO2,gas,97500,0.0008,38.98,35.00,55.69,0.32,"renik (sigma>10, tidak dinilai)"
+SUKYAA_ASR__rh000,N2,pjg3,147500,2.774,0.76,0.66,0.82,0.59,stagnan
+SUKYAA_ASR__rh000,O2,pjg3,147500,0.6526,0.59,-0.33,0.50,0.41,stagnan
+SUKYAA_ASR__rh000,AR,pjg3,147500,0.03431,1.55,1.71,2.40,0.52,fluktuatif
+SUKYAA_ASR__rh000,CO2,pjg3,147500,3.161,4.10,-1.52,3.90,0.48,fluktuatif
+SUKYAA_ASR__rh025,N2,gas,547500,0.01028,8.04,9.72,12.06,0.56,fluktuatif besar
+SUKYAA_ASR__rh025,O2,gas,547500,0.0117,7.81,8.45,10.92,0.57,fluktuatif besar
+SUKYAA_ASR__rh025,AR,gas,547500,0.0005436,4.47,5.02,7.45,0.38,fluktuatif besar
+SUKYAA_ASR__rh025,H2O,gas,547500,120,0.54,-0.67,0.67,0.36,stagnan
+SUKYAA_ASR__rh025,CO2,gas,547500,0.0004036,11.07,-0.90,15.75,0.45,"renik (sigma>10, tidak dinilai)"
+SUKYAA_ASR__rh050,N2,50k,47500,0.00432,18.20,-39.81,39.81,0.11,"renik (sigma>10, tidak dinilai)"
+SUKYAA_ASR__rh050,O2,50k,47500,0.00586,19.17,-37.88,37.88,0.11,"renik (sigma>10, tidak dinilai)"
+SUKYAA_ASR__rh050,H2O,50k,47500,125,0.40,0.61,0.70,0.78,stagnan
+SUKYAA_ASR__rh050,AR,50k,47500,0.00036,27.21,-33.33,41.41,0.22,"renik (sigma>10, tidak dinilai)"
+SUKYAA_ASR__rh050,CO2,50k,47500,0.0002,44.71,-39.99,45.45,0.33,"renik (sigma>10, tidak dinilai)"
+SUKYAA_ASR__rh100,N2,50k,47500,0.0007,32.57,60.00,60.00,0.67,"renik (sigma>10, tidak dinilai)"
+SUKYAA_ASR__rh100,O2,50k,47500,0.001,34.49,68.00,68.00,0.67,"renik (sigma>10, tidak dinilai)"
+SUKYAA_ASR__rh100,H2O,50k,47500,129.3,0.26,0.27,0.27,0.67,stagnan
+SUKYAA_ASR__rh100,AR,50k,47500,2e-05,99.99,100.00,100.00,0.11,"renik (sigma>10, tidak dinilai)"
+SUKYAA_ASR__rh100,CO2,50k,47500,4e-05,61.23,0.00,75.76,0.11,"renik (sigma>10, tidak dinilai)"
+ULAQEG_ASR__rh000,N2,pjg,147500,0.007587,3.95,-1.05,3.13,0.48,fluktuatif
+ULAQEG_ASR__rh000,O2,pjg,147500,0.0222,1.50,-1.86,1.99,0.52,stagnan
+ULAQEG_ASR__rh000,AR,pjg,147500,0.0002533,21.05,0.00,13.82,0.45,"renik (sigma>10, tidak dinilai)"
+ULAQEG_ASR__rh000,CO2,pjg,147500,1.39,9.19,5.53,7.91,0.45,fluktuatif besar
+ULAQEG_ASR__rh025,N2,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh025,O2,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh025,AR,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh025,H2O,50k,47500,61.84,0.09,0.12,0.12,0.67,stagnan
+ULAQEG_ASR__rh025,CO2,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh050,N2,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh050,O2,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh050,H2O,50k,47500,61.98,0.02,0.01,0.02,0.78,stagnan
+ULAQEG_ASR__rh050,AR,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh050,CO2,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh100,N2,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh100,O2,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh100,H2O,50k,47500,62,0.00,-0.00,0.00,0.22,stagnan
+ULAQEG_ASR__rh100,AR,50k,47500,0,,,,,nol
+ULAQEG_ASR__rh100,CO2,50k,47500,0,,,,,nol
+VUCCON_ion__rh000,N2,pjg3,147500,0.2733,0.86,-0.98,1.37,0.41,stagnan
+VUCCON_ion__rh000,O2,pjg3,147500,0.248,0.46,0.43,0.99,0.45,stagnan
+VUCCON_ion__rh000,AR,pjg3,147500,0.01078,1.50,1.18,2.87,0.34,fluktuatif
+VUCCON_ion__rh000,CO2,pjg3,147500,1.13,1.57,-2.47,2.84,0.28,fluktuatif
+VUCCON_ion__rh025,N2,50k,47500,0.00038,19.34,15.79,21.06,0.67,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh025,O2,50k,47500,0.0007,33.80,37.15,38.10,0.44,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh025,AR,50k,47500,2e-05,99.99,100.00,142.85,0.11,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh025,H2O,50k,47500,157.6,0.26,-0.44,0.44,0.11,stagnan
+VUCCON_ion__rh025,CO2,50k,47500,4e-05,61.23,0.00,58.33,0.11,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh050,N2,50k,47500,0.00036,22.56,-11.11,29.63,0.44,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh050,O2,50k,47500,0.00064,20.73,-24.99,24.99,0.44,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh050,H2O,50k,47500,159.5,0.28,-0.26,0.27,0.22,stagnan
+VUCCON_ion__rh050,AR,50k,47500,0,,,,,nol
+VUCCON_ion__rh050,CO2,50k,47500,0.00014,83.29,-71.42,76.19,0.11,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh100,N2,50k,47500,6e-05,40.82,-33.33,38.09,0.11,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh100,O2,50k,47500,0.0001,31.62,-20.00,40.00,0.22,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh100,H2O,50k,47500,162,0.15,-0.08,0.12,0.44,stagnan
+VUCCON_ion__rh100,AR,50k,47500,2e-05,99.99,100.00,100.00,0.11,"renik (sigma>10, tidak dinilai)"
+VUCCON_ion__rh100,CO2,50k,47500,0,,,,,nol
+VUCDAA_ion__rh000,N2,pjg3,147500,0.5003,0.26,-0.01,0.52,0.48,stagnan
+VUCDAA_ion__rh000,O2,pjg3,147500,0.3386,0.31,-0.19,0.56,0.48,stagnan
+VUCDAA_ion__rh000,AR,pjg3,147500,0.01271,3.83,4.62,5.06,0.66,fluktuatif besar
+VUCDAA_ion__rh000,CO2,pjg3,147500,1.634,2.30,2.28,3.72,0.41,fluktuatif
+VUCDAA_ion__rh025,N2,50k,47500,0.00084,16.66,14.29,23.08,0.67,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh025,O2,50k,47500,0.00088,24.74,13.64,24.24,0.67,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh025,AR,50k,47500,2e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh025,H2O,50k,47500,159.4,0.35,-0.24,0.35,0.22,stagnan
+VUCDAA_ion__rh025,CO2,50k,47500,0.00162,55.60,55.56,58.85,0.44,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh050,N2,50k,47500,0.00078,13.69,-17.94,25.87,0.33,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh050,O2,50k,47500,0.00086,16.69,-16.27,22.92,0.33,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh050,H2O,50k,47500,161.3,0.36,0.40,0.40,0.67,stagnan
+VUCDAA_ion__rh050,AR,50k,47500,4e-05,99.99,0.00,75.76,0.11,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh050,CO2,50k,47500,4e-05,61.23,0.00,52.29,0.11,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh100,N2,50k,47500,0.00048,15.31,-8.33,21.79,0.11,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh100,O2,50k,47500,0.00048,13.82,16.67,20.83,0.44,"renik (sigma>10, tidak dinilai)"
+VUCDAA_ion__rh100,H2O,50k,47500,165.1,0.24,0.42,0.42,0.89,stagnan
+VUCDAA_ion__rh100,AR,50k,47500,0,,,,,nol
+VUCDAA_ion__rh100,CO2,50k,47500,6e-05,66.66,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh000,N2,pjg3,147500,0.2616,0.64,-0.30,1.55,0.34,stagnan
+VUCDEE_ion__rh000,O2,pjg3,147500,0.2437,0.41,0.25,0.84,0.45,stagnan
+VUCDEE_ion__rh000,AR,pjg3,147500,0.00904,4.31,1.77,4.16,0.59,fluktuatif
+VUCDEE_ion__rh000,CO2,pjg3,147500,0.8551,3.91,0.26,5.10,0.52,fluktuatif besar
+VUCDEE_ion__rh025,N2,ulang,47500,0.00094,39.02,-40.42,43.13,0.22,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh025,O2,ulang,47500,0.00144,22.24,-8.33,20.06,0.33,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh025,AR,ulang,47500,8e-05,46.76,-49.99,81.81,0.11,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh025,H2O,ulang,47500,155.8,0.40,0.33,0.52,0.67,stagnan
+VUCDEE_ion__rh025,CO2,ulang,47500,0.00108,33.30,-59.25,59.25,0.22,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh050,N2,gas,697500,0.0001914,14.66,-13.43,19.22,0.27,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh050,O2,gas,697500,0.0002329,12.18,3.07,11.94,0.39,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh050,H2O,gas,697500,160.5,0.14,0.05,0.10,0.54,stagnan
+VUCDEE_ion__rh050,AR,gas,697500,1.857e-05,39.59,-38.46,48.90,0.02,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh050,CO2,gas,697500,5.857e-05,26.27,-7.32,19.76,0.11,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh100,N2,50k,47500,0.00018,73.27,55.56,75.31,0.11,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh100,O2,50k,47500,0.00026,35.66,-38.46,52.99,0.22,"renik (sigma>10, tidak dinilai)"
+VUCDEE_ion__rh100,H2O,50k,47500,161.2,0.27,0.39,0.52,0.78,stagnan
+VUCDEE_ion__rh100,AR,50k,47500,0,,,,,nol
+VUCDEE_ion__rh100,CO2,50k,47500,6e-05,99.99,-99.99,99.99,0.00,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh000,N2,gas,97500,0.3942,5.84,-7.28,9.22,0.37,fluktuatif besar
+VUQLEZ_ion__rh000,O2,gas,97500,0.1114,8.39,-13.39,14.22,0.26,fluktuatif besar
+VUQLEZ_ion__rh000,AR,gas,97500,0.00595,10.11,-11.26,15.47,0.37,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh000,CO2,gas,97500,11.69,2.06,3.28,3.44,0.68,fluktuatif
+VUQLEZ_ion__rh025,N2,50k,47500,0.00306,42.13,-17.64,45.96,0.33,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh025,O2,50k,47500,0.00098,29.82,-6.12,32.65,0.33,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh025,AR,50k,47500,0.0001,77.45,-59.99,81.81,0.11,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh025,H2O,50k,47500,80.74,0.63,0.47,0.74,0.56,stagnan
+VUQLEZ_ion__rh025,CO2,50k,47500,0.01036,65.50,-96.52,96.52,0.00,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh050,N2,50k,47500,0.00058,31.97,44.83,52.59,0.33,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh050,O2,50k,47500,0.0002,47.43,60.00,60.00,0.44,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh050,H2O,50k,47500,81.89,0.39,-0.16,0.21,0.44,stagnan
+VUQLEZ_ion__rh050,AR,50k,47500,0,,,,,nol
+VUQLEZ_ion__rh050,CO2,50k,47500,0.0011,56.03,85.46,85.46,0.22,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh100,N2,50k,47500,0.00026,61.53,-7.69,64.10,0.11,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh100,O2,50k,47500,0.00014,66.23,-71.42,71.42,0.11,"renik (sigma>10, tidak dinilai)"
+VUQLEZ_ion__rh100,H2O,50k,47500,86.4,0.34,0.38,0.46,0.78,stagnan
+VUQLEZ_ion__rh100,AR,50k,47500,0,,,,,nol
+VUQLEZ_ion__rh100,CO2,50k,47500,8e-05,46.76,0.00,41.18,0.22,"renik (sigma>10, tidak dinilai)"
+XALVOY_ASR__rh000,N2,pjg3,147500,0.01202,3.26,-1.16,3.67,0.48,fluktuatif
+XALVOY_ASR__rh000,O2,pjg3,147500,0.02876,1.87,-0.14,2.00,0.45,stagnan
+XALVOY_ASR__rh000,AR,pjg3,147500,0.0004133,13.15,-6.45,11.88,0.34,"renik (sigma>10, tidak dinilai)"
+XALVOY_ASR__rh000,CO2,pjg3,147500,0.2014,7.37,-14.79,15.89,0.21,fluktuatif besar
+XALVOY_ASR__rh025,N2,gas,4997500,0.0004232,3.75,5.10,5.64,0.29,fluktuatif besar
+XALVOY_ASR__rh025,O2,gas,4997500,0.001065,2.56,2.69,2.96,0.46,fluktuatif
+XALVOY_ASR__rh025,AR,gas,4997500,2.06e-05,5.00,-0.97,10.11,0.05,masih bergerak
+XALVOY_ASR__rh025,H2O,gas,4997500,23.37,0.09,0.02,0.10,0.46,stagnan
+XALVOY_ASR__rh025,CO2,gas,4997500,0.002797,4.97,1.54,6.44,0.20,"renik (sigma>10, tidak dinilai)"
+XALVOY_ASR__rh050,N2,gas,4997500,0.0001888,3.39,-1.06,3.97,0.34,fluktuatif
+XALVOY_ASR__rh050,O2,gas,4997500,0.0005052,3.56,5.86,6.36,0.37,fluktuatif besar
+XALVOY_ASR__rh050,H2O,gas,4997500,25.12,0.13,0.30,0.32,0.47,stagnan
+XALVOY_ASR__rh050,AR,gas,4997500,1.42e-05,6.83,-7.04,13.42,0.03,masih bergerak
+XALVOY_ASR__rh050,CO2,gas,4997500,0.001257,5.49,-2.72,10.53,0.15,"renik (sigma>10, tidak dinilai)"
+XALVOY_ASR__rh100,N2,gas,997500,9.9e-05,8.66,9.09,13.71,0.21,fluktuatif besar
+XALVOY_ASR__rh100,O2,gas,997500,0.000223,7.25,-4.04,11.51,0.37,fluktuatif besar
+XALVOY_ASR__rh100,H2O,gas,997500,27.61,0.43,0.27,0.59,0.49,stagnan
+XALVOY_ASR__rh100,AR,gas,997500,4e-06,46.76,50.00,68.41,0.02,"renik (sigma>10, tidak dinilai)"
+XALVOY_ASR__rh100,CO2,gas,997500,0.000457,23.49,-1.09,34.36,0.12,"renik (sigma>10, tidak dinilai)"
+YOPMAS_ASR__rh000,N2,pjg3,147500,0.6207,0.87,-2.15,2.15,0.28,fluktuatif
+YOPMAS_ASR__rh000,O2,pjg3,147500,0.1551,1.06,1.52,1.62,0.59,stagnan
+YOPMAS_ASR__rh000,AR,pjg3,147500,0.00468,2.12,2.00,3.52,0.48,fluktuatif
+YOPMAS_ASR__rh000,CO2,pjg3,147500,1.608,1.79,1.18,2.67,0.52,fluktuatif
+YOPMAS_ASR__rh025,N2,gas,997500,0.000169,12.56,2.96,15.23,0.33,"renik (sigma>10, tidak dinilai)"
+YOPMAS_ASR__rh025,O2,gas,997500,0.001085,4.40,-5.99,9.10,0.48,fluktuatif besar
+YOPMAS_ASR__rh025,AR,gas,997500,1.9e-05,29.30,15.79,31.89,0.06,"renik (sigma>10, tidak dinilai)"
+YOPMAS_ASR__rh025,H2O,gas,997500,65.17,0.25,-0.01,0.26,0.43,stagnan
+YOPMAS_ASR__rh025,CO2,gas,997500,6.9e-05,30.17,-15.94,29.14,0.05,"renik (sigma>10, tidak dinilai)"
+YOPMAS_ASR__rh050,N2,50k,47500,0.00018,20.78,11.11,31.63,0.33,"renik (sigma>10, tidak dinilai)"
+YOPMAS_ASR__rh050,O2,50k,47500,0.00102,7.84,-5.88,16.56,0.33,fluktuatif besar
+YOPMAS_ASR__rh050,H2O,50k,47500,68.85,0.96,0.64,1.08,0.56,stagnan
+YOPMAS_ASR__rh050,AR,50k,47500,2e-05,99.99,100.00,100.00,0.11,"renik (sigma>10, tidak dinilai)"
+YOPMAS_ASR__rh050,CO2,50k,47500,0,,,,,nol
+YOPMAS_ASR__rh100,N2,gas,1897500,0.00015,5.23,-4.56,8.87,0.29,fluktuatif besar
+YOPMAS_ASR__rh100,O2,gas,1897500,0.001039,2.89,-4.05,5.61,0.46,fluktuatif besar
+YOPMAS_ASR__rh100,H2O,gas,1897500,73.05,0.21,-0.08,0.39,0.48,stagnan
+YOPMAS_ASR__rh100,AR,gas,1897500,2.895e-05,19.28,34.55,45.59,0.09,"renik (sigma>10, tidak dinilai)"
+YOPMAS_ASR__rh100,CO2,gas,1897500,5.789e-06,17.01,9.09,32.48,0.02,"renik (sigma>10, tidak dinilai)"
+YUMFES_ASR__rh000,N2,pjg3,147500,1.121,0.32,0.14,0.76,0.41,stagnan
+YUMFES_ASR__rh000,O2,pjg3,147500,0.5838,0.66,-0.05,0.77,0.48,stagnan
+YUMFES_ASR__rh000,AR,pjg3,147500,0.02619,2.04,-0.46,1.65,0.52,stagnan
+YUMFES_ASR__rh000,CO2,pjg3,147500,2.402,1.52,2.73,5.42,0.62,fluktuatif besar
+YUMFES_ASR__rh025,N2,50k,47500,0.074,2.50,-1.46,2.47,0.33,fluktuatif
+YUMFES_ASR__rh025,O2,50k,47500,0.05466,4.46,-2.81,4.30,0.33,fluktuatif
+YUMFES_ASR__rh025,AR,50k,47500,0.00348,6.70,0.00,5.24,0.56,fluktuatif besar
+YUMFES_ASR__rh025,H2O,50k,47500,113.8,0.92,1.35,1.44,0.89,stagnan
+YUMFES_ASR__rh025,CO2,50k,47500,0.00104,30.49,-46.15,46.15,0.22,"renik (sigma>10, tidak dinilai)"
+YUMFES_ASR__rh050,N2,gas,297500,0.02002,9.99,-2.30,10.84,0.44,fluktuatif besar
+YUMFES_ASR__rh050,O2,gas,297500,0.01434,12.40,-1.12,13.48,0.39,"renik (sigma>10, tidak dinilai)"
+YUMFES_ASR__rh050,H2O,gas,297500,122.1,0.37,0.01,0.42,0.53,stagnan
+YUMFES_ASR__rh050,AR,gas,297500,0.00087,10.25,4.22,15.01,0.39,"renik (sigma>10, tidak dinilai)"
+YUMFES_ASR__rh050,CO2,gas,297500,0.0003367,18.87,-14.85,20.23,0.29,"renik (sigma>10, tidak dinilai)"
+YUMFES_ASR__rh100,N2,gas,697500,0.005437,4.85,-6.25,8.92,0.39,fluktuatif besar
+YUMFES_ASR__rh100,O2,gas,697500,0.004113,6.65,-1.56,8.07,0.36,fluktuatif besar
+YUMFES_ASR__rh100,H2O,gas,697500,124.5,0.11,-0.02,0.11,0.58,stagnan
+YUMFES_ASR__rh100,AR,gas,697500,0.0002857,4.81,4.00,9.80,0.45,fluktuatif besar
+YUMFES_ASR__rh100,CO2,gas,697500,7.714e-05,10.72,-11.11,22.21,0.09,"renik (sigma>10, tidak dinilai)"
+c5ra16112f2_1_ASR__rh000,N2,pjg3,147500,0.03973,1.55,-2.18,3.45,0.45,fluktuatif
+c5ra16112f2_1_ASR__rh000,O2,pjg3,147500,0.03241,1.54,0.97,1.10,0.52,stagnan
+c5ra16112f2_1_ASR__rh000,AR,pjg3,147500,0.0009,7.86,-15.55,15.55,0.28,fluktuatif besar
+c5ra16112f2_1_ASR__rh000,CO2,pjg3,147500,0.3011,7.12,2.29,7.01,0.48,fluktuatif besar
+c5ra16112f2_1_ASR__rh025,N2,bgr,597500,0.000195,44.25,-31.62,41.76,0.20,"renik (sigma>10, tidak dinilai)"
+c5ra16112f2_1_ASR__rh025,O2,bgr,597500,0.000435,39.50,-18.77,30.89,0.18,"renik (sigma>10, tidak dinilai)"
+c5ra16112f2_1_ASR__rh025,AR,bgr,597500,1.667e-05,44.71,0.00,40.35,0.04,"renik (sigma>10, tidak dinilai)"
+c5ra16112f2_1_ASR__rh025,H2O,bgr,597500,36.79,1.25,-0.74,0.74,0.26,stagnan
+c5ra16112f2_1_ASR__rh025,CO2,bgr,597500,1e-05,40.82,0.00,46.07,0.03,"renik (sigma>10, tidak dinilai)"
+c5ra16112f2_1_ASR__rh050,N2,50k,47500,2e-05,99.99,100.00,125.00,0.11,"renik (sigma>10, tidak dinilai)"
+c5ra16112f2_1_ASR__rh050,O2,50k,47500,0.00018,66.66,100.00,117.64,0.33,"renik (sigma>10, tidak dinilai)"
+c5ra16112f2_1_ASR__rh050,H2O,50k,47500,36.3,0.72,-1.01,1.03,0.11,stagnan
+c5ra16112f2_1_ASR__rh050,AR,50k,47500,0,,,,,nol
+c5ra16112f2_1_ASR__rh050,CO2,50k,47500,0,,,,,nol
+c5ra16112f2_1_ASR__rh100,N2,50k,47500,0,,,,,nol
+c5ra16112f2_1_ASR__rh100,O2,50k,47500,0,,,,,nol
+c5ra16112f2_1_ASR__rh100,H2O,50k,47500,36.95,0.10,-0.04,0.08,0.67,stagnan
+c5ra16112f2_1_ASR__rh100,AR,50k,47500,0,,,,,nol
+c5ra16112f2_1_ASR__rh100,CO2,50k,47500,0,,,,,nol
+d3ta01930f2_3_ASR__rh000,N2,pjg4,597500,0.8361,0.26,0.09,0.36,0.43,stagnan
+d3ta01930f2_3_ASR__rh000,O2,pjg4,597500,0.2615,0.33,0.49,0.50,0.55,stagnan
+d3ta01930f2_3_ASR__rh000,AR,pjg4,597500,0.01272,2.07,0.88,2.53,0.49,fluktuatif
+d3ta01930f2_3_ASR__rh000,CO2,pjg4,597500,3.84,1.00,-0.58,2.18,0.48,fluktuatif
+d3ta01930f2_3_ASR__rh025,N2,50k,47500,0.8083,0.52,-0.93,0.97,0.22,stagnan
+d3ta01930f2_3_ASR__rh025,O2,50k,47500,0.2565,0.81,-0.32,0.74,0.56,stagnan
+d3ta01930f2_3_ASR__rh025,AR,50k,47500,0.01242,4.90,-0.48,4.06,0.44,fluktuatif
+d3ta01930f2_3_ASR__rh025,H2O,50k,47500,12.03,0.24,0.42,0.42,0.78,stagnan
+d3ta01930f2_3_ASR__rh025,CO2,50k,47500,0.00818,3.17,-3.17,7.26,0.44,fluktuatif besar
+d3ta01930f2_3_ASR__rh050,N2,50k,47500,0.8023,0.37,-0.01,0.45,0.67,stagnan
+d3ta01930f2_3_ASR__rh050,O2,50k,47500,0.2524,1.75,1.16,1.29,0.78,stagnan
+d3ta01930f2_3_ASR__rh050,H2O,50k,47500,12.19,0.29,0.19,0.26,0.67,stagnan
+d3ta01930f2_3_ASR__rh050,AR,50k,47500,0.01204,5.22,-3.98,4.11,0.22,fluktuatif
+d3ta01930f2_3_ASR__rh050,CO2,50k,47500,0.00858,8.61,-17.01,17.01,0.22,fluktuatif besar
+d3ta01930f2_3_ASR__rh100,N2,50k,47500,0.7546,2.59,-3.47,5.17,0.44,fluktuatif besar
+d3ta01930f2_3_ASR__rh100,O2,50k,47500,0.2362,2.44,-2.24,3.81,0.44,fluktuatif
+d3ta01930f2_3_ASR__rh100,H2O,50k,47500,13.94,6.63,9.67,13.22,0.56,fluktuatif besar
+d3ta01930f2_3_ASR__rh100,AR,50k,47500,0.01196,5.27,-1.33,5.46,0.33,fluktuatif besar
+d3ta01930f2_3_ASR__rh100,CO2,50k,47500,0.0086,5.64,-4.18,7.80,0.33,fluktuatif besar
+jp9b03221_si_002_ASR__rh000,N2,pjg,147500,1.301,1.17,-1.23,2.13,0.45,fluktuatif
+jp9b03221_si_002_ASR__rh000,O2,pjg,147500,0.201,1.37,0.05,2.42,0.45,fluktuatif
+jp9b03221_si_002_ASR__rh000,AR,pjg,147500,0.007767,4.06,2.66,4.87,0.55,fluktuatif
+jp9b03221_si_002_ASR__rh000,CO2,pjg,147500,19.79,0.59,0.25,1.05,0.52,stagnan
+jp9b03221_si_002_ASR__rh025,N2,gas,2497500,0.0002488,10.39,-1.93,15.70,0.23,"renik (sigma>10, tidak dinilai)"
+jp9b03221_si_002_ASR__rh025,O2,gas,2497500,0.00158,0.64,0.33,1.90,0.54,stagnan
+jp9b03221_si_002_ASR__rh025,AR,gas,2497500,4.76e-05,7.44,-14.29,16.97,0.10,masih bergerak
+jp9b03221_si_002_ASR__rh025,H2O,gas,2497500,78.26,0.32,0.48,0.50,0.54,stagnan
+jp9b03221_si_002_ASR__rh025,CO2,gas,2497500,0.003484,25.10,-26.02,35.90,0.09,"renik (sigma>10, tidak dinilai)"
+jp9b03221_si_002_ASR__rh050,N2,50k,47500,0.0001,44.71,-20.00,32.69,0.22,"renik (sigma>10, tidak dinilai)"
+jp9b03221_si_002_ASR__rh050,O2,50k,47500,0.00112,9.53,3.58,14.88,0.67,fluktuatif besar
+jp9b03221_si_002_ASR__rh050,H2O,50k,47500,85.95,1.06,1.44,1.54,0.89,stagnan
+jp9b03221_si_002_ASR__rh050,AR,50k,47500,8e-05,46.76,0.00,42.61,0.22,"renik (sigma>10, tidak dinilai)"
+jp9b03221_si_002_ASR__rh050,CO2,50k,47500,2e-05,99.99,100.00,100.00,0.11,"renik (sigma>10, tidak dinilai)"
+jp9b03221_si_002_ASR__rh100,N2,gas,347500,3.143e-05,68.02,-45.45,71.99,0.03,"renik (sigma>10, tidak dinilai)"
+jp9b03221_si_002_ASR__rh100,O2,gas,347500,0.0004971,6.76,0.00,12.14,0.32,fluktuatif besar
+jp9b03221_si_002_ASR__rh100,H2O,gas,347500,102.5,0.61,-0.62,0.74,0.29,stagnan
+jp9b03221_si_002_ASR__rh100,AR,gas,347500,5.714e-06,61.23,100.00,133.33,0.03,"renik (sigma>10, tidak dinilai)"
+jp9b03221_si_002_ASR__rh100,CO2,gas,347500,6.286e-05,39.10,0.00,40.40,0.06,"renik (sigma>10, tidak dinilai)"

@@ -1,0 +1,52 @@
+run,gas_sigma_gt10,label
+ARAHIM02_ASR__rh025,N2=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+ARAHIM02_ASR__rh100,N2=100% O2=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+ARAHIM_ASR__rh025,O2=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+ARAHIM_ASR__rh050,O2=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+ARAHIM_ASR__rh100,O2=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+BOMCUB_ion__rh025,N2=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+BOTLED_ASR__rh050,N2=14% AR=67%,N2/O2/Ar renik: sudah diperpanjang tapi sigma tidak turun
+FUDTOQ_ASR__rh100,N2=26% O2=11% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+GISMIG_ASR__rh100,N2=52% O2=44% AR=67%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+HOFMAS_ASR__rh100,N2=100% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+IHECAB_ASR__rh000,AR=21%,N2/O2/Ar renik: sudah diperpanjang tapi sigma tidak turun
+KEDJEL_ASR__rh100,N2=21% O2=22% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+PAVXUJ_ion__rh025,N2=39% O2=21% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+PAVXUJ_ion__rh050,N2=28% O2=33% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+PAVXUJ_ion__rh100,N2=100% O2=25%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+PEXBIF01_ASR__rh100,N2=36% O2=28% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+SUKYAA_ASR__rh100,N2=33% O2=34% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+ULAQEG_ASR__rh000,AR=21%,N2/O2/Ar renik: sudah diperpanjang tapi sigma tidak turun
+VUCCON_ion__rh025,N2=19% O2=34% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+VUCCON_ion__rh100,N2=41% O2=32% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+VUCDAA_ion__rh025,N2=17% O2=25% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+VUCDAA_ion__rh050,N2=14% O2=17% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+VUCDEE_ion__rh025,N2=39% O2=22% AR=47%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+VUCDEE_ion__rh100,N2=73% O2=36%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+XALVOY_ASR__rh000,AR=13%,N2/O2/Ar renik: sudah diperpanjang tapi sigma tidak turun
+YOPMAS_ASR__rh050,N2=21% AR=100%,N2/O2/Ar renik: butuh >100 jam - tidak diperpanjang
+BOTLED_ASR__rh025,AR=30%,N2/O2/Ar renik: perpanjangan dihentikan - sigma tidak turun
+FUDTOQ_ASR__rh050,N2=19% O2=12% AR=61%,N2/O2/Ar renik: perpanjangan dihentikan - sigma tidak turun
+HOFMAS_ASR__rh050,N2=26% O2=40% AR=55%,N2/O2/Ar renik: perpanjangan dihentikan - sigma tidak turun
+NARHEV_ion__rh050,N2=25% O2=38% AR=47%,N2/O2/Ar renik: perpanjangan dihentikan - sigma tidak turun
+SUKYAA_ASR__rh050,N2=18% O2=19% AR=27%,N2/O2/Ar renik: perpanjangan dihentikan - sigma tidak turun
+VUQLEZ_ion__rh100,N2=62% O2=66%,N2/O2/Ar renik: perpanjangan dihentikan - sigma tidak turun
+c5ra16112f2_1_ASR__rh025,N2=56% O2=64% AR=100%,N2/O2/Ar renik: perpanjangan dihentikan - sigma tidak turun
+jp9b03221_si_002_ASR__rh050,N2=45% AR=47%,N2/O2/Ar renik: perpanjangan dihentikan - sigma tidak turun
+BOMCUB_ion__rh050,N2=61% O2=22%,N2/O2/Ar renik: perpanjangan dihentikan - panjang simulasi tidak realistis
+GISMIG_ASR__rh050,N2=34% O2=25% AR=41%,N2/O2/Ar renik: perpanjangan dihentikan - panjang simulasi tidak realistis
+VUCCON_ion__rh050,N2=23% O2=21%,N2/O2/Ar renik: perpanjangan dihentikan - panjang simulasi tidak realistis
+VUCDAA_ion__rh100,N2=15% O2=14%,N2/O2/Ar renik: perpanjangan dihentikan - panjang simulasi tidak realistis
+VUQLEZ_ion__rh025,N2=42% O2=30% AR=77%,N2/O2/Ar renik: perpanjangan dihentikan - panjang simulasi tidak realistis
+VUQLEZ_ion__rh050,N2=32% O2=47%,N2/O2/Ar renik: perpanjangan dihentikan - panjang simulasi tidak realistis
+c5ra16112f2_1_ASR__rh050,N2=100% O2=67%,N2/O2/Ar renik: perpanjangan dihentikan - panjang simulasi tidak realistis
+BOTLED_ASR__rh100,N2 renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
+GUSNEN01_FSR__rh000,AR renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
+IHECAB_ASR__rh025,AR renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
+IHECAB_ASR__rh050,AR renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
+IHECAB_ASR__rh100,AR renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
+PEXBIF01_ASR__rh050,AR renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
+QOVWOO_FSR__rh100,O2 renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
+XALVOY_ASR__rh025,AR renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
+XALVOY_ASR__rh050,AR renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
+jp9b03221_si_002_ASR__rh025,AR renik,N2/O2/Ar renik: rata-rata kumulatif masih bergerak - tidak diperpanjang
