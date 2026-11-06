@@ -2,7 +2,7 @@
 
 This repository contains the data and scripts behind the article
 
-> E. Munandar, T. Tokumasu, N. Nasruddin, *Screening metal–organic frameworks for direct air capture with the full composition of humid air*, Chemical Engineering Journal (submitted).
+> E. Munandar, T. Tokumasu, E.A. Kosasih, N. Nasruddin, *Screening metal–organic frameworks for direct air capture with the full composition of humid air*, Chemical Engineering Journal (submitted).
 
 Please cite the article and this dataset when using the material.
 
