@@ -1,6 +1,6 @@
 """Levelised cost of capture with GCMC-derived sorbent behaviour and the dacsys plant/energy/cost model.
 
-The dacsys package (path in the environment variable DACSYS_PATH) is used read-only: no file in that folder is written
+The dacsys package (path in the environment variable PLANT_MODEL_PATH) is used read-only: no file in that folder is written
 (no bytecode, all output to this project). Its air train supplies the air-side process (drying, fans,
 optional chilling); every sorbent-related quantity is replaced by the five-component GCMC map of this
 work (data/peta_iklim.csv, desorption at 1 kPa):
@@ -15,7 +15,7 @@ PERLAKUAN=inert|umpan python dacsys_gcmc.py semua -> data/lcoc_gcmc_inert.csv / 
 import os, sys
 sys.dont_write_bytecode = True
 os.environ['PYTHONDONTWRITEBYTECODE'] = '1'
-ARS = os.environ.get('DACSYS_PATH', 'dacsys_path_not_set')      # folder that contains the dacsys package
+ARS = os.environ.get('PLANT_MODEL_PATH', 'plant_model_path_not_set')      # folder that contains the dacsys package
 sys.path.insert(0, ARS)
 
 from dataclasses import replace

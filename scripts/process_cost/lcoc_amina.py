@@ -1,6 +1,6 @@
 """Amine DAC reference on the same off-grid energy block and sites as dacsys_gcmc.py.
 
-The dacsys package (path in the environment variable DACSYS_PATH) is used read-only (no bytecode, output to this project).
+The dacsys package (path in the environment variable PLANT_MODEL_PATH) is used read-only (no bytecode, output to this project).
 Energy demand of amine DAC from the fit to Wenzel et al. (dacsys/amine_benchmark.json) at the annual mean
 temperature and humidity of each site; capital cost 600/1000/1500 USD per (t/yr), O&M 3/5/10 %, energy
 factor 0.75/1.0/1.25 (lo/base/hi), all dacsys defaults.
@@ -10,7 +10,7 @@ python lcoc_amina.py [n_proc] -> data/lcoc_amina.csv
 import os, sys
 sys.dont_write_bytecode = True
 os.environ['PYTHONDONTWRITEBYTECODE'] = '1'
-ARS = os.environ.get('DACSYS_PATH', 'dacsys_path_not_set')      # folder that contains the dacsys package
+ARS = os.environ.get('PLANT_MODEL_PATH', 'plant_model_path_not_set')      # folder that contains the dacsys package
 sys.path.insert(0, ARS)
 
 import json
